@@ -1,26 +1,5 @@
 {
-    "concert_list": [
-        {
-            "image": "https://i.scdn.co/image/ab67616d0000b2738ba60113f7b551a1b9502154",
-            "city": "Bangkok",
-            "country": "Thailand 🇹🇭",
-            "date": "2025-06-21",
-            "time": "18:30",
-            "enable_website": true,
-            "website": "https://www.viagogo.com/ww/Concert-Tickets/K-pop/ENHYPEN-Tickets/E-157576036",
-            "place": "Rajamangala Stadium"
-        },
-        {
-            "image": "https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:738/jb7production-uploads/2023/01/enhypen-1200x675.png",
-            "city": "Tokyo",
-            "country": "Japan 🇹🇭",
-            "date": "2025-07-05",
-            "time": "17:00",
-            "enable_website": true,
-            "website": "https://www.viagogo.com/ww/Concert-Tickets/K-pop/ENHYPEN-Tickets/E-157576036",
-            "place": "Ajinomoto Stadium (Tokyo Stadium)"
-        }
-    ],
+    "concert_list": [],
     "song_list": [
         {
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTOMfjhrNLlG96plGQXMlY2Khhe3m8BCnQ2g&s",
