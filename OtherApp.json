@@ -1,0 +1,19 @@
+{
+    "list_apps": [
+        {
+            "title_apps": "ENHYPEN DESIRE : UNLEASH",
+            "image": "https://play-lh.googleusercontent.com/bBPRg9672UM4cfF_mMjwPslzdSrxAwx5sx2ILitAx3I20YAHQRnKxjdYBzVef82Hdg=w480-h960",
+            "link": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics"
+        },
+        {
+            "title_apps": "BABYMONSTER DRIP 2025",
+            "image": "https://play-lh.googleusercontent.com/9UEDSB9SSlQ-s8YkRr0POGJ9IyeMv5xRZ8if4PnUy66F2vJnIoWkFpa_nxm8NHtPNeI=w480-h960",
+            "link": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics"
+        },
+        {
+            "title_apps": "Tomorrow X Together",
+            "image": "https://play-lh.googleusercontent.com/UNVoC8EMNcPhWne40Y2_N72B5MIgbxw60nUIgh2gM2V7YJQJkOLj_USPb0DkQkZdmvE=w480-h960",
+            "link": "https://play.google.com/store/apps/details?id=com.txt.song"
+        }
+    ]
+}
