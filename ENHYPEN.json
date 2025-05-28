@@ -5121,13 +5121,10 @@
                 "Yeah, yeah, yeah"
             ],
             "urlMp3": "https://lind96.github.io/personal/mp3/enhypen/bro.mp3",
-
             "english_lyric": null,
             "youtube_id": "yjxLMzeV76Q",
             "artist": "ENHYPEN (엔하이픈)"
         }
     ],
-    "hide_adds_by_version": [
-        11
-    ]
+    "hide_adds_by_version": []
 }
