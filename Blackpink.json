@@ -7550,7 +7550,5 @@
             "artist": "BLACKPINK"
         }
     ],
-    "hide_adds_by_version": [
-        1
-    ]
+    "hide_adds_by_version": []
 }
