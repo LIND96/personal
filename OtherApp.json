@@ -1,6 +1,11 @@
 {
     "list_apps": [
         {
+            "title_apps": "Blackpink - Deadline Tour",
+            "image": "https://play-lh.googleusercontent.com/8hYMCuq81ZZtA6Ic0u3YUgq6Tli27ZFZhxluZSdc5da1yD4nnAx6pV2o93ePr4PKwUA=w480-h960",
+            "link": "https://play.google.com/store/apps/details?id=com.blackpink.deadline.tour"
+        },
+        {
             "title_apps": "ENHYPEN DESIRE : UNLEASH",
             "image": "https://play-lh.googleusercontent.com/bBPRg9672UM4cfF_mMjwPslzdSrxAwx5sx2ILitAx3I20YAHQRnKxjdYBzVef82Hdg=w480-h960",
             "link": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics"
