@@ -5161,6 +5161,45 @@
             "english_lyric": null,
             "youtube_id": "a2Zqdo9RbNs",
             "artist": "ENHYPEN (엔하이픈)"
+        },
+        {
+            "image": "https://images.genius.com/3169e60506ebb17bf8b4e50a0d3d8089.1000x1000x1.png",
+            "title": "Helium",
+            "popularity": 23000,
+            "release_date": "2025-06-05",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "urlMp3": "https://lind96.github.io/personal/mp3/enhypen/Helium.mp3",
+            "english_lyric": null,
+            "youtube_id": "DgbNXt5Er2w",
+            "artist": "ENHYPEN (엔하이픈)"
+        },
+        {
+            "image": "https://images.genius.com/3169e60506ebb17bf8b4e50a0d3d8089.1000x1000x1.png",
+            "title": "Too Close",
+            "popularity": 24000,
+            "release_date": "2025-06-05",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "urlMp3": "https://lind96.github.io/personal/mp3/enhypen/close.mp3",
+            "english_lyric": null,
+            "youtube_id": "zIDx6GBuoCc",
+            "artist": "ENHYPEN (엔하이픈)"
+        },
+        {
+            "image": "https://images.genius.com/3169e60506ebb17bf8b4e50a0d3d8089.1000x1000x1.png",
+            "title": "Flashover",
+            "popularity": 21000,
+            "release_date": "2025-06-05",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "urlMp3": "https://lind96.github.io/personal/mp3/enhypen/Flashover.mp3",
+            "english_lyric": null,
+            "youtube_id": "S5Eesy9hGLM",
+            "artist": "ENHYPEN (엔하이픈)"
         }
     ],
     "hide_adds_by_version": []
