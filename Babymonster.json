@@ -2530,5 +2530,5 @@
         }
     ],
     "show_ads": true,
-    "hide_adds_by_version": [6]
+    "hide_adds_by_version": []
 }
