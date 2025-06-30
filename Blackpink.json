@@ -11811,5 +11811,17 @@
         }
     ],
     "hide_adds_by_version": [],
-    "promotion_count": 2
+    "promotion_count": 2,
+    "concert_footage ":[
+        {
+            "type":"youtube",
+            "url":"https://www.youtube.com/watch?v=8YiR9v3sOpk",
+            "title":"BLACKPINK WORLD TOUR [DEADLINE] TRAILER"
+        },
+        {
+            "type":"mp4",
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4",
+            "title":"BBB"
+        }
+    ]
 }
