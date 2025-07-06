@@ -11819,9 +11819,34 @@
             "title":"BLACKPINK WORLD TOUR [DEADLINE] TRAILER"
         },
         {
-            "type":"empty",
+            "type":"youtube",
             "url":"https://www.w3schools.com/html/mov_bbb.mp4",
-            "title":"GOYAN STADIUM FANS FOOTAGE 2025"
+            "youtube_id":"pwhh8YCpYMQ",
+            "title":"GOYAN STADIUM FANS FOOTAGE 2025 Kill This Love + Pink Venom"
+        },
+        {
+            "type":"youtube",
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4",
+            "youtube_id":"zCO1Y4Sw72g",
+            "title":"GOYAN STADIUM FANS FOOTAGE 2025 How You Like That + PLAYING WITH FIRE"
+        },
+        {
+            "type":"youtube",
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4",
+            "youtube_id":"ucOXlb87Hek",
+            "title":"GOYAN STADIUM FANS FOOTAGE 2025 Shut Down"
+        },
+        {
+            "type":"youtube",
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4",
+            "youtube_id":"KsSCh2YJfHo",
+            "title":"GOYAN STADIUM FANS FOOTAGE 2025 ROSÉ 3am + toxic till the end + APT"
+        },
+        {
+            "type":"youtube",
+            "url":"https://www.w3schools.com/html/mov_bbb.mp4",
+            "youtube_id":"GNm0e9ptR9U",
+            "title":"GOYAN STADIUM FANS FOOTAGE 2025 See U Later'"
         }
     ]
 }
