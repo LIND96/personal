@@ -940,5 +940,7 @@
               ,
             "artist": "Sabrina Carpenter"
         }
-    ]
+    ],
+    "hide_adds_by_version": [],
+    "promotion_count": 1
 }
