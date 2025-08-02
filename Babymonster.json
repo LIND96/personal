@@ -2670,6 +2670,6 @@
         }
     ],
     "show_ads": true,
-    "hide_adds_by_version": [8],
+    "hide_adds_by_version": [],
     "promotion_count": 2
 }
