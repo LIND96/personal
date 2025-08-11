@@ -2,13 +2,13 @@
     "concert_list": [
         {
             "image": "https://res.cloudinary.com/dhh19fozh/q_auto:good,f_auto,dpr_1.0/w_auto:breakpoints_85_850_10_10:738/jb7production-uploads/2023/01/enhypen-1200x675.png",
-            "city": "Chicago, Illinois",
-            "country": "USA 🇺🇸",
-            "date": "2025-08-09",
-            "time": "19:30",
+            "city": "London, Greater London",
+            "country": "United Kingdom 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "date": "2025-08-22",
+            "time": "18:00",
             "enable_website": true,
-            "website": "https://www.viagogo.com/Concert-Tickets/K-pop/ENHYPEN-Tickets/E-157960836?quantity=1",
-            "place": "United Center"
+            "website": "https://www.viagogo.com/Concert-Tickets/K-pop/ENHYPEN-Tickets/E-157960747?quantity=1",
+            "place": "The O2"
         }
     ],
     "song_list": [
