@@ -859,11 +859,11 @@
             "artist": "Sabrina Carpenter"
         },
         {
-            "image": "https://i.scdn.co/image/ab67616d0000b273eaebcdff03a5299824ccef6e",
+            "image": "https://images.genius.com/6830ce844c41db87692e70f653713c9d.1000x1000x1.png",
             "title": "Manchild",
             "popularity": 1000000,
             "release_date": "2025-06-07",
-            "album": "-",
+            "album": "Man's Best Friend",
             "urlMp3": "https://lind96.github.io/personal/mp3/sabrina/m.mp3",
             "latin_lyric": [
                 "Oh, boy",
@@ -936,11 +936,52 @@
                 "I'm not choosing them",
                 "Amen",
                 "Hey, men!"
-              ]
-              ,
+            ],
             "artist": "Sabrina Carpenter"
+        },
+        {
+            "title": "Tears",
+            "release_date": "2025-08-29",
+            "album": "Man's Best Friend",
+            "artist": "Sabrina Carpenter",
+            "image": "https://images.genius.com/6830ce844c41db87692e70f653713c9d.1000x1000x1.png",
+            "popularity": 700000,
+            "urlMp3": "https://lind96.github.io/personal/mp3/sabrina/tears.mp3",
+            "latin_lyric": null
+        },
+        {
+            "title": "My Man on Willpower",
+            "release_date": "2025-08-29",
+            "album": "Man's Best Friend",
+            "artist": "Sabrina Carpenter",
+            "image": "https://images.genius.com/6830ce844c41db87692e70f653713c9d.1000x1000x1.png",
+            "popularity": 60000,
+            "urlMp3": "https://lind96.github.io/personal/mp3/sabrina/myman.mp3",
+            "latin_lyric": null
+        },
+        {
+            "title": "Sugar Talking",
+            "release_date": "2025-08-29",
+            "album": "Man's Best Friend",
+            "artist": "Sabrina Carpenter",
+            "image": "https://images.genius.com/6830ce844c41db87692e70f653713c9d.1000x1000x1.png",
+            "popularity": 40000,
+            "urlMp3": "https://lind96.github.io/personal/mp3/sabrina/sugart.mp3",
+            "latin_lyric": null
+        },
+        {
+            "title": "We Almost Broke Up Again Last Night",
+            "release_date": "2025-08-29",
+            "album": "Man's Best Friend",
+            "artist": "Sabrina Carpenter",
+            "image": "https://images.genius.com/6830ce844c41db87692e70f653713c9d.1000x1000x1.png",
+            "popularity": 40000,
+            "urlMp3": "https://lind96.github.io/personal/mp3/sabrina/weal.mp3",
+            "latin_lyric": null
         }
     ],
-    "hide_adds_by_version": [4],
+    "hide_adds_by_version": [
+        4
+    ],
     "promotion_count": 2
 }
