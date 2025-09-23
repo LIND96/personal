@@ -23,6 +23,48 @@
     ],
     "song_list": [
         {
+            "image": "https://i.ytimg.com/vi/Ytmcwjf2amw/maxresdefault.jpg",
+            "title": "Soda Pop",
+            "popularity": 2000000,
+            "release_date": "2025-07-23",
+            "album": "-",
+            "urlMp3": "https://wekaryatech.github.io/song/sodapopsaja.mp3",
+            "youtube_id": "983bBbJx0Mk",
+            "latin_lyric": null,
+            "artist": "KPop Demon Hunters (Saja Boys)",
+            "tags": [
+                "kpop demon hunters"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/Ytmcwjf2amw/maxresdefault.jpg",
+            "title": "Your Idol",
+            "popularity": 2000000,
+            "release_date": "2025-07-23",
+            "album": "-",
+            "urlMp3": "https://wekaryatech.github.io/song/youridolbsaja.mp3",
+            "youtube_id": "cWppAbqm9I8",
+            "latin_lyric": null,
+            "artist": "KPop Demon Hunters (Saja Boys)",
+            "tags": [
+                "kpop demon hunters"
+            ]
+        },
+        {
+            "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
+            "title": "How It's Done",
+            "popularity": 2000000,
+            "release_date": "2025-07-23",
+            "album": "-",
+            "urlMp3": "https://wekaryatech.github.io/song/howit-huntrx.mp3",
+            "youtube_id": "QGsevnbItdU",
+            "latin_lyric": null,
+            "artist": "KPop Demon Hunters (Huntr/x)",
+            "tags": [
+                "kpop demon hunters"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/n7kFRxFIPrI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCKAqRlbXc6l-ARlzeU5kfixpvoZw",
             "title": "STYLE",
             "popularity": 700000,
@@ -45,7 +87,7 @@
             "urlMp3": "https://lind96.github.io/personal/mp3/txt/golden.mp3",
             "youtube_id": "yebNIHKAC4A",
             "latin_lyric": null,
-            "artist": "KPop Demon Hunters",
+            "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
                 "kpop demon hunters"
             ]
