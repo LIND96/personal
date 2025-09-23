@@ -17,9 +17,25 @@
         "twice",
         "babymonster",
         "txt",
-        "kpop demon hunters"
+        "kpop demon hunters",
+        "hearts2hearts"
+
     ],
     "song_list": [
+        {
+            "image": "https://i.ytimg.com/vi/n7kFRxFIPrI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCKAqRlbXc6l-ARlzeU5kfixpvoZw",
+            "title": "STYLE",
+            "popularity": 700000,
+            "release_date": "2025-06-23",
+            "album": "-",
+            "urlMp3": "https://wekaryatech.github.io/song/style-h2h.mp3",
+            "youtube_id": "n7kFRxFIPrI",
+            "latin_lyric": null,
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ]
+        },
         {
             "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
             "title": "Golden",
