@@ -23,6 +23,19 @@
     ],
     "song_list": [
         {
+            "title": "All Eyes On Me",
+            "release_date": "2025-02-14",
+            "album": "Amortage",
+            "artist": "JISOO",
+            "tags": [
+                "jiso"
+            ],
+            "image": "https://i.ytimg.com/vi/0zIW4vLH8Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCg1n7TZHMv5eVSen8vvYIWOPUJuA",
+            "popularity": 800000,
+            "urlMp3": "https://wekaryatech.github.io/song/all-on-jisson.mp3",
+            "youtube_id": "NuxAOC6RU9c"
+        },
+        {
             "image": "https://i.ytimg.com/vi/Ytmcwjf2amw/maxresdefault.jpg",
             "title": "Soda Pop",
             "popularity": 2000000,
