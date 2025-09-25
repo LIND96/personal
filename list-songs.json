@@ -18,10 +18,245 @@
         "babymonster",
         "txt",
         "kpop demon hunters",
-        "hearts2hearts"
-
+        "hearts2hearts",
+        "aespa",
+        "straykids"
     ],
     "song_list": [
+        {
+            "title": "Ceremony",
+            "release_date": "2025-08-22",
+            "album": "KARMA",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/P7vBoGWoReg/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
+            "youtube_id": "P7vBoGWoReg"
+        },
+        {
+            "title": "GIANT (Korean Ver.)",
+            "release_date": "2025-03-21",
+            "album": "Mixtape: dominATE",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/h21pp5-k9SA/maxresdefault.jpg",
+            "popularity": 1000000,
+            "urlMp3": "https://wekaryatech.github.io/song/strygiant.mp3",
+            "youtube_id": "h21pp5-k9SA"
+        },
+        {
+            "title": "Burnin’ Tires",
+            "release_date": "2025-03-21",
+            "album": "Mixtape: dominATE",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/vSPnf72JsCQ/maxresdefault.jpg",
+            "popularity": 700000,
+            "urlMp3": "https://wekaryatech.github.io/song/stryburn.mp3",
+            "youtube_id": "vSPnf72JsCQ"
+        },
+        {
+            "title": "Truman",
+            "release_date": "2025-03-21",
+            "album": "Mixtape: dominATE",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/diMyNjWyDW8/maxresdefault.jpg",
+            "popularity": 800000,
+            "urlMp3": "https://wekaryatech.github.io/song/strytruman.mp3",
+            "youtube_id": "diMyNjWyDW8"
+        },
+        {
+            "title": "ESCAPE",
+            "release_date": "2025-03-21",
+            "album": "Mixtape: dominATE",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/LvCmsOWPwKA/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/strycescape.mp3",
+            "youtube_id": "LvCmsOWPwKA"
+        },
+        {
+            "title": "CINEMA",
+            "release_date": "2025-03-21",
+            "album": "Mixtape: dominATE",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/G4CAFJ5mLXU/maxresdefault.jpg",
+            "popularity": 600000,
+            "urlMp3": "https://wekaryatech.github.io/song/strycinema.mp3",
+            "youtube_id": "G4CAFJ5mLXU"
+        },
+        {
+            "title": "Bleep",
+            "release_date": "2025-08-22",
+            "album": "KARMA",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/qS7OsvKqojg/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/strybleep.mp3",
+            "youtube_id": "qS7OsvKqojg"
+        },
+        {
+            "title": "CREED",
+            "release_date": "2025-08-22",
+            "album": "KARMA",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/y-rPpGpnSg0/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/strycreed.mp3",
+            "youtube_id": "y-rPpGpnSg0"
+        },
+        {
+            "title": "Mess",
+            "release_date": "2025-08-22",
+            "album": "KARMA",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/Q-rDglVNQO0/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/strymess.mp3",
+            "youtube_id": "Q-rDglVNQO0"
+        },
+        {
+            "title": "Supernova",
+            "release_date": "2024-05-13",
+            "album": "Armageddon",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/phuiiNCxRMg/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-super.mp3",
+            "youtube_id": "phuiiNCxRMg"
+        },
+        {
+            "title": "Whiplash",
+            "release_date": "2024-10-21",
+            "album": "Whiplash",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/jWQx2f-CErU/maxresdefault.jpg",
+            "popularity": 2300000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespawhis.mp3",
+            "youtube_id": "jWQx2f-CErU"
+        },
+        {
+            "title": "Dirty Work",
+            "release_date": "2025-06-27",
+            "album": "Dirty Work",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/M2WTUoy4y6E/maxresdefault.jpg",
+            "popularity": 1200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-dirty.mp3",
+            "youtube_id": "M2WTUoy4y6E"
+        },
+        {
+            "title": "Armageddon",
+            "release_date": "2024-05-27",
+            "album": "Armageddon",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/nFYwcndNuOY/maxresdefault.jpg",
+            "popularity": 1800000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-arma.mp3",
+            "youtube_id": "nFYwcndNuOY"
+        },
+        {
+            "title": "Black Mamba",
+            "release_date": "2020-11-17",
+            "album": "Black Mamba / Girls (re-included)",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/ZeerrnuLi5E/maxresdefault.jpg",
+            "popularity": 4300000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-bm.mp3",
+            "youtube_id": "ZeerrnuLi5E"
+        },
+        {
+            "title": "Savage",
+            "release_date": "2021-10-05",
+            "album": "Savage",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/WPdWvnAAurg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCbe--Hq4qO97oh8hpNAkvUZaZBdA",
+            "popularity": 3800000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-savagae.mp3",
+            "youtube_id": "WPdWvnAAurg"
+        },
+        {
+            "title": "Next Level",
+            "release_date": "2021-05-17",
+            "album": "Next Level (single)",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/4TWR90KJl84/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCTIa0aiShQYGx9OUMWyvi38NZyNw",
+            "popularity": 4000000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-next.mp3",
+            "youtube_id": "4TWR90KJl84"
+        },
+        {
+            "title": "Drama",
+            "release_date": "2023-11-10",
+            "album": "Drama",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/D8VEhcPeSlc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdI82wTho6HE6v8tmdflBsoCzG7g",
+            "popularity": 2300000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-drama.mp3",
+            "youtube_id": "D8VEhcPeSlc"
+        },
+        {
+            "title": "Spicy",
+            "release_date": "2023-05-08",
+            "album": "My World",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/Os_heh8vPfs/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-spicye.mp3",
+            "youtube_id": "Os_heh8vPfs"
+        },
         {
             "title": "All Eyes On Me",
             "release_date": "2025-02-14",
