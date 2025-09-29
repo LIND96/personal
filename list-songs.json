@@ -34733,6 +34733,6 @@
             ]
         }
     ],
-    "hide_adds_by_version": [],
+    "hide_adds_by_version": [10],
     "promotion_count": 2
 }
