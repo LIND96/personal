@@ -34784,6 +34784,6 @@
             ]
         }
     ],
-    "hide_adds_by_version": [10],
+    "hide_adds_by_version": [],
     "promotion_count": 2
 }
