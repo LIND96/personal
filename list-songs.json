@@ -3,7 +3,7 @@
         "jennie",
         "blackpink",
         "enhypen",
-        "jiso",
+        "jisoo",
         "lisa",
         "rose",
         "jungkook",
@@ -23,6 +23,20 @@
         "straykids"
     ],
     "song_list": [
+        {
+            "title": "EYES CLOSED",
+            "release_date": "2025-10-10",
+            "album": "-",
+            "artist": "JISOO",
+            "tags": [
+                "jisoo",
+                "blackpink"
+            ],
+            "image": "https://i.ytimg.com/vi/aTqchg0BUG4/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/eyeclosed.mp3",
+            "youtube_id": "aTqchg0BUG4"
+        },
         {
             "title": "Ceremony",
             "release_date": "2025-08-22",
@@ -263,7 +277,7 @@
             "album": "Amortage",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ],
             "image": "https://i.ytimg.com/vi/0zIW4vLH8Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCg1n7TZHMv5eVSen8vvYIWOPUJuA",
@@ -20949,7 +20963,7 @@
             "youtube_id": "YudHcBIxlYw",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ]
         },
@@ -21191,7 +21205,7 @@
             "youtube_id": "2V6lvCUPT8I",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ]
         },
@@ -25108,7 +25122,7 @@
             "album": "Amortage",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ],
             "image": "https://i.ytimg.com/vi/0zIW4vLH8Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCg1n7TZHMv5eVSen8vvYIWOPUJuA",
@@ -25255,7 +25269,7 @@
             "album": "Amortage",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ],
             "image": "https://i.ytimg.com/vi/0zIW4vLH8Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCg1n7TZHMv5eVSen8vvYIWOPUJuA",
@@ -25378,7 +25392,7 @@
             "album": "Amortage",
             "artist": "JISOO",
             "tags": [
-                "jiso",
+                "jisoo",
                 "blackpink"
             ],
             "image": "https://i.ytimg.com/vi/0zIW4vLH8Wo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCg1n7TZHMv5eVSen8vvYIWOPUJuA",
