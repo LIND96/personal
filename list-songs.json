@@ -3329,6 +3329,19 @@
             "urlMp3": "https://lind96.github.io/personal/mp3/txt/ss.mp3"
         },
         {
+            "title": "WE GO UP",
+            "release_date": "2025-10-27",
+            "album": "-",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "image": "https://i.ytimg.com/vi/wlHwjkYpSr0/maxresdefault.jpg",
+            "popularity": 2000000,
+            "urlMp3": "https://lind96.github.io/personal/mp3/babymonster/wegoup.mp3",
+            "youtube_id": "wlHwjkYpSr0"
+        },
+        {
             "title": "BATTER UP",
             "release_date": "2023-11-27",
             "album": "BABYMONS7ER",
@@ -34802,7 +34815,7 @@
         }
     ],
     "hide_adds_by_version": [],
-    "default_tags": "blackpink",
+    "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2
 }
