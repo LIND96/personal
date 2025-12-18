@@ -34815,6 +34815,7 @@
         }
     ],
     "hide_adds_by_version": [],
+    "hide_adds_by_version_baemon":[13],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2
