@@ -3329,19 +3329,6 @@
             "urlMp3": "https://lind96.github.io/personal/mp3/txt/ss.mp3"
         },
         {
-            "title": "WE GO UP",
-            "release_date": "2025-10-27",
-            "album": "-",
-            "artist": "BABYMONSTER",
-            "tags": [
-                "babymonster"
-            ],
-            "image": "https://i.ytimg.com/vi/wlHwjkYpSr0/maxresdefault.jpg",
-            "popularity": 2000000,
-            "urlMp3": "https://lind96.github.io/personal/mp3/babymonster/wegoup.mp3",
-            "youtube_id": "wlHwjkYpSr0"
-        },
-        {
             "title": "BATTER UP",
             "release_date": "2023-11-27",
             "album": "BABYMONS7ER",
@@ -34812,10 +34799,78 @@
             "tags": [
                 "enhypen"
             ]
+        },
+        {
+            "title": "WE GO UP",
+            "release_date": "2025-10-10",
+            "album": "WE GO UP",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster",
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 46000,
+            "youtube_id": "wlHwjkYpSr0",
+            "urlMp3": "https://lind96.github.io/personal/mp3/babymonster/wegoup.mp3",
+            "image": "https://i.ytimg.com/vi/fhxq4s36-I4/maxresdefault.jpg"
+        },
+        {
+            "title": "PSYCHO",
+            "release_date": "2025-10-10",
+            "album": "WE GO UP",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster",
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 50000,
+            "youtube_id": "fhxq4s36-I4",
+            "urlMp3": "https://wekaryatech.github.io/song/baemon-pshyco.mp3",
+            "image": "https://i.ytimg.com/vi/fhxq4s36-I4/maxresdefault.jpg"
+        },
+        {
+            "title": "SUPA DUPA LUV",
+            "release_date": "2025-10-10",
+            "album": "WE GO UP",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster",
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 20000,
+            "youtube_id": "fhxq4s36-I4",
+            "urlMp3": "https://wekaryatech.github.io/song/baemon-supaluv.mp3",
+            "image": "https://i.ytimg.com/vi/fhxq4s36-I4/maxresdefault.jpg"
+        },
+        {
+            "title": "WILD",
+            "release_date": "2025-10-10",
+            "album": "WE GO UP",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster",
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 16000,
+            "youtube_id": "fhxq4s36-I4",
+            "urlMp3": "https://wekaryatech.github.io/song/baemon-wild.mp3",
+            "image": "https://i.ytimg.com/vi/fhxq4s36-I4/maxresdefault.jpg"
         }
     ],
-    "hide_adds_by_version": [14],
-    "hide_adds_by_version_baemon":[14],
+    "hide_adds_by_version": [
+        14
+    ],
+    "hide_adds_by_version_baemon": [
+        14
+    ],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2
