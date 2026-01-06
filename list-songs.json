@@ -34871,6 +34871,15 @@
     ],
     "hide_adds_by_version_baemon": [
     ],
+    "dataListVoteEventBlink": [
+        {
+            "image":"https://play-lh.googleusercontent.com/-u7g-Lzc5Es734PfDlg-IE5O8oVFUsVZxcKZUI0-2Jokp4GqSYtK7lH-BOPN-92g8Mbb=w480-h960",
+            "nameEvent": "January Comeback Artist Vote",
+            "link" :"https://mnetplus.onelink.me/TRa8/xohkwx0b?custom_link_value=vote%2Fv2%2F6948e5b91aa046708b613965",
+            "timeStart":"12 December 2025 (KST)",
+            "timeEnd":"20 January 2026 (KST)" 
+        }
+    ],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2
