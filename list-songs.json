@@ -34872,6 +34872,7 @@
         5
     ],
     "hide_adds_by_version_baemon": [
+        18
     ],
     "dataListVoteEventBlink": [
         {
@@ -34883,6 +34884,9 @@
         }
     ],
     "dataListVoteEventArmy": [
+   
+    ],
+    "dataListVoteEventMonstiez": [
    
     ],
     "default_tags": "babymonster",
