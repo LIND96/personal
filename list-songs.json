@@ -34843,6 +34843,70 @@
             "youtube_id": "xfqBQ2XhBCg",
             "urlMp3": "https://wekaryatech.github.io/song/jen-spot.mp3",
             "image": "https://i.ytimg.com/vi/xfqBQ2XhBCg/maxresdefault.jpg"
+        },
+        {
+            "title": "Hope Not",
+            "release_date": "2019-12-13",
+            "album": "Kill This Love",
+            "artist": "BLACKPINK",
+            "tags": [
+                "blackpink"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 300000,
+            "youtube_id": "l6zMnMMzsss",
+            "urlMp3": "https://wekaryatech.github.io/song/bp-hopenot.mp3",
+            "image": "https://i.ytimg.com/vi/l6zMnMMzsss/maxresdefault.jpg"
+        },
+        {
+            "title": "The Happiest Girl",
+            "release_date": "2022-09-21",
+            "album": "-",
+            "artist": "BLACKPINK",
+            "tags": [
+                "blackpink"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 300000,
+            "youtube_id": "kVXazE8wR1Q",
+            "urlMp3": "https://wekaryatech.github.io/song/bp-thehappinest.mp3",
+            "image": "https://i.ytimg.com/vi/kVXazE8wR1Q/maxresdefault.jpg"
+        },
+        {
+            "title": "Hard to Love",
+            "release_date": "2022-09-21",
+            "album": "-",
+            "artist": "BLACKPINK",
+            "tags": [
+                "blackpink"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 300000,
+            "youtube_id": "7Hr3p1BHC_E",
+            "urlMp3": "https://wekaryatech.github.io/song/bp-hardtolove.mp3",
+            "image": "https://i.ytimg.com/vi/7Hr3p1BHC_E/maxresdefault.jpg"
+        },
+        {
+            "title": "THE GIRLS",
+            "release_date": "2023-08-25",
+            "album": "-",
+            "artist": "BLACKPINK",
+            "tags": [
+                "blackpink"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 2200000,
+            "youtube_id": "cSqOY5nktfg",
+            "urlMp3": "https://wekaryatech.github.io/song/bp-thegirls.mp3",
+            "image": "https://i.ytimg.com/vi/cSqOY5nktfg/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [],
