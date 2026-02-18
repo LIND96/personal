@@ -34907,6 +34907,22 @@
             "youtube_id": "cSqOY5nktfg",
             "urlMp3": "https://wekaryatech.github.io/song/bp-thegirls.mp3",
             "image": "https://i.ytimg.com/vi/cSqOY5nktfg/maxresdefault.jpg"
+        },
+        {
+            "title": "Sour Candy",
+            "release_date": "2020-05-25",
+            "album": "-",
+            "artist": "BLACKPINK-Lady Gaga",
+            "tags": [
+                "blackpink"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 2200000,
+            "youtube_id": "fnPn6At3v28",
+            "urlMp3": "https://wekaryatech.github.io/song/bp-sour.mp3",
+            "image": "https://i.ytimg.com/vi/fnPn6At3v28/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [],
