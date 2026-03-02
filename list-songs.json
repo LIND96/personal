@@ -35060,7 +35060,7 @@
             "image": "https://i.ytimg.com/vi/G-ggE9EP-r0/maxresdefault.jpg"
         }
     ],
-    "hide_adds_by_version": [],
+    "hide_adds_by_version": [19],
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "dataListVoteEventBlink": [
