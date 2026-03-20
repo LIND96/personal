@@ -36502,7 +36502,7 @@
             "english_lyric": null,
             "popularity": 1000000,
             "youtube_id": "Qye9VHIv6qM",
-            "urlMp3": "https://wekaryatech.github.io/song/bts-29.mp3",
+            "urlMp3": "https://wekaryatech.github.io/song/bts-normal.mp3",
             "image": "https://i.ytimg.com/vi/Qye9VHIv6qM/maxresdefault.jpg"
         },
         {
@@ -37037,9 +37037,7 @@
         }
     ],
     "hide_adds_by_version": [],
-    "hide_adds_by_version_army": [
-        
-    ],
+    "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "dataListVoteEventBlink": [
         {
