@@ -37037,7 +37037,7 @@
         }
     ],
     "hide_adds_by_version": [22],
-    "hide_adds_by_version_army": [10],
+    "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "dataListVoteEventBlink": [
         {
