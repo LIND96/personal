@@ -37050,6 +37050,22 @@
             "youtube_id": "jip9EXrrf0o",
             "urlMp3": "https://wekaryatech.github.io/song/bts-ineedu.mp3",
             "image": "https://i.ytimg.com/vi/jip9EXrrf0o/maxresdefault.jpg"
+        },
+        {
+            "title": "Ghost",
+            "release_date": "2025-05-07",
+            "album": "-",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "sRLbqYkoaLc",
+            "urlMp3": "https://wekaryatech.github.io/song/babymonster-ghost.mp3",
+            "image": "https://i.ytimg.com/vi/sRLbqYkoaLc/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [22],
