@@ -37034,6 +37034,22 @@
             "youtube_id": "9DwzBICPhdM",
             "urlMp3": "https://wekaryatech.github.io/song/bts-nottoday.mp3",
             "image": "https://i.ytimg.com/vi/9DwzBICPhdM/maxresdefault.jpg"
+        },
+        {
+            "title": "I NEED U",
+            "release_date": "2016-03-20",
+            "album": "-",
+            "artist": "BTS",
+            "tags": [
+                "bts"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "jip9EXrrf0o",
+            "urlMp3": "https://wekaryatech.github.io/song/bts-ineedu.mp3",
+            "image": "https://i.ytimg.com/vi/jip9EXrrf0o/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [22],
