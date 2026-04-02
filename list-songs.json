@@ -37222,14 +37222,108 @@
             "youtube_id": "sRLbqYkoaLc",
             "urlMp3": "https://wekaryatech.github.io/song/babymonster-ghost.mp3",
             "image": "https://i.ytimg.com/vi/sRLbqYkoaLc/maxresdefault.jpg"
+        },
+        {
+            "title": "ATTITUDE",
+            "release_date": "2026-03-07",
+            "album": "-",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "nMwSsHkjmfk",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-attitude.mp3",
+            "image": "https://i.ytimg.com/vi/nMwSsHkjmfk/maxresdefault.jpg"
+        },
+        {
+            "title": "Rich Man",
+            "release_date": "2025-03-07",
+            "album": "Rich Man",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "5oQVTnq-UKk",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-richman.mp3",
+            "image": "https://i.ytimg.com/vi/5oQVTnq-UKk/maxresdefault.jpg"
+        },
+        {
+            "title": "Angel #48",
+            "release_date": "2025-03-07",
+            "album": "Rich Man",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "3DKIs5xvoCY",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-angel.mp3",
+            "image": "https://i.ytimg.com/vi/3DKIs5xvoCY/maxresdefault.jpg"
+        },
+        {
+            "title": "Bubble",
+            "release_date": "2025-03-07",
+            "album": "Rich Man",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "yzcqGyMxj2s",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-buble.mp3",
+            "image": "https://i.ytimg.com/vi/yzcqGyMxj2s/maxresdefault.jpg"
+        },
+        {
+            "title": "Count On Me",
+            "release_date": "2025-03-07",
+            "album": "Rich Man",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "VI2Juh18UbM",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-countonme.mp3",
+            "image": "https://i.ytimg.com/vi/VI2Juh18UbM/maxresdefault.jpg"
+        },
+        {
+            "title": "Drift",
+            "release_date": "2025-03-07",
+            "album": "Rich Man",
+            "artist": "AESPA",
+            "tags": [
+                "aespa"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 1000000,
+            "youtube_id": "QubU-i7ial0",
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-drift.mp3",
+            "image": "https://i.ytimg.com/vi/QubU-i7ial0/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [],
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
-    "hide_adds_by_version_aespa": [
-        
-    ],
+    "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [
         1
     ],
@@ -37250,7 +37344,7 @@
             "timeStart": "01 April 2026 (KST)",
             "timeEnd": "15 April 2026 (KST)"
         },
-         {
+        {
             "image": "https://image.idolchamp.com/app_proxy/bridge_page_x2.png",
             "nameEvent": "BEST MV of March",
             "link": "https://promo-web.idolchamp.com/app_proxy.html?deeplink=https%3A%2F%2Fapp.idolchamp.com%2Fopen%2Fvote%2F01KMCYFG9P6K0K5QVPXY25XW2W",
