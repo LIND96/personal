@@ -35004,7 +35004,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/bp-fxxxboy.mp3",
             "image": "https://i.ytimg.com/vi/G-ggE9EP-r0/maxresdefault.jpg"
         },
-         {
+        {
             "title": "2.0",
             "release_date": "2026-03-20",
             "album": "ARIRANG",
@@ -36568,7 +36568,6 @@
             "urlMp3": "https://wekaryatech.github.io/song/bts-fya.mp3",
             "image": "https://i.ytimg.com/vi/QWDayFgPDjQ/maxresdefault.jpg"
         },
-       
         {
             "title": "No. 29",
             "release_date": "2026-03-20",
@@ -37243,7 +37242,15 @@
             "timeEnd": "20 January 2026 (KST)"
         }
     ],
-    "dataListVoteEventArmy": [],
+    "dataListVoteEventArmy": [
+        {
+            "image": "https://play-lh.googleusercontent.com/-u7g-Lzc5Es734PfDlg-IE5O8oVFUsVZxcKZUI0-2Jokp4GqSYtK7lH-BOPN-92g8Mbb=w480-h960",
+            "nameEvent": "Forbes Korea Selected Artist Vote",
+            "link": "https://mnetplus.onelink.me/TRa8/xohkwx0b?custom_link_value=vote%2Fv2%2F69c490ab40ee12195a47205e",
+            "timeStart": "01 April 2026 (KST)",
+            "timeEnd": "15 April 2026 (KST)"
+        }
+    ],
     "dataListVoteEventMonstiez": [],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
