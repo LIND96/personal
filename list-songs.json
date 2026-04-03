@@ -37321,21 +37321,15 @@
         }
     ],
     "hide_adds_by_version": [],
-    "hide_adds_by_version_army": [],
+    "hide_adds_by_version_army": [
+        11
+    ],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [
         1
     ],
-    "dataListVoteEventBlink": [
-        {
-            "image": "https://play-lh.googleusercontent.com/-u7g-Lzc5Es734PfDlg-IE5O8oVFUsVZxcKZUI0-2Jokp4GqSYtK7lH-BOPN-92g8Mbb=w480-h960",
-            "nameEvent": "January Comeback Artist Vote",
-            "link": "https://mnetplus.onelink.me/TRa8/xohkwx0b?custom_link_value=vote%2Fv2%2F6948e5b91aa046708b613965",
-            "timeStart": "12 December 2025 (KST)",
-            "timeEnd": "20 January 2026 (KST)"
-        }
-    ],
+    "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
         {
             "image": "https://play-lh.googleusercontent.com/-u7g-Lzc5Es734PfDlg-IE5O8oVFUsVZxcKZUI0-2Jokp4GqSYtK7lH-BOPN-92g8Mbb=w480-h960",
@@ -37353,6 +37347,22 @@
         }
     ],
     "dataListVoteEventMonstiez": [],
+    "dataListMVArmy": [
+        {
+            "youtube_id": "_gyultVTesk",
+            "title": "BTS (방탄소년단) '2.0' Official MV",
+            "urlMp3": "https://wekaryatech.github.io/song/bts-20.mp4",
+            "image": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
+            "release_date": "2026-03-20"
+        },
+        {
+            "youtube_id": "b4iVv91Z6lY",
+            "title": " BTS (방탄소년단) ‘SWIM’ Official MV",
+            "urlMp3": "https://wekaryatech.github.io/song/bts-swim.mp4",
+            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/maxresdefault.jpg",
+            "release_date": "2026-03-20"
+        }
+    ],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2,
