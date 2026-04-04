@@ -37363,6 +37363,15 @@
             "release_date": "2026-03-20"
         }
     ],
+     "dataListMVBabymonster": [
+        {
+            "youtube_id": "_gyultVTesk",
+            "title": "BTS (방탄소년단) '2.0' Official MV",
+            "urlMp4": "https://wekaryatech.github.io/song/bts-20.mp4",
+            "image": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
+            "release_date": "2026-03-20"
+        }
+    ],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2,
