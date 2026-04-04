@@ -37396,6 +37396,15 @@
             "release_date": "2025-11-20"
         }
     ],
+    "dataListMVBlackpink": [
+        {
+            "youtube_id": "0UPDBODtxzw",
+            "title": "Tame Impala, JENNIE - Dracula (JENNIE Remix - Official Lyric Video)",
+            "urlMp4": "https://wekaryatech.github.io/song/blackpin-jennie-dracula.mp4",
+            "image": "https://i.ytimg.com/vi/0UPDBODtxzw/maxresdefault.jpg",
+            "release_date": "2026-03-20"
+        }
+    ],
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2,
