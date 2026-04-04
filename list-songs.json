@@ -37318,6 +37318,23 @@
             "youtube_id": "QubU-i7ial0",
             "urlMp3": "https://wekaryatech.github.io/song/aespa-drift.mp3",
             "image": "https://i.ytimg.com/vi/QubU-i7ial0/maxresdefault.jpg"
+        },
+        {
+            "image": "https://i.ytimg.com/vi/0UPDBODtxzw/maxresdefault.jpg",
+            "title": "Tame Impala, JENNIE - Dracula",
+            "urlMp3": "https://wekaryatech.github.io/song/blackpin-jennie-dracula.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-04-01",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "0UPDBODtxzw",
+            "artist": "JENNIE",
+            "tags": [
+                "jennie",
+                "blackpink"
+            ]
         }
     ],
     "hide_adds_by_version": [],
