@@ -37321,10 +37321,10 @@
         }
     ],
     "hide_adds_by_version": [],
-    "hide_adds_by_version_army": [
-        
+    "hide_adds_by_version_army": [],
+    "hide_adds_by_version_baemon": [
+        23
     ],
-    "hide_adds_by_version_baemon": [23],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [
         1
@@ -37363,13 +37363,20 @@
             "release_date": "2026-03-20"
         }
     ],
-     "dataListMVBabymonster": [
+    "dataListMVBabymonster": [
         {
-            "youtube_id": "_gyultVTesk",
-            "title": "BTS (방탄소년단) '2.0' Official MV",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-20.mp4",
-            "image": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
-            "release_date": "2026-03-20"
+            "youtube_id": "SbdOIdg2McI",
+            "title": "BABYMONSTER - ‘SUPA DUPA LUV’ M/V",
+            "urlMp4": "https://wekaryatech.github.io/song/babymonster-supadupa.mp4",
+            "image": "https://i.ytimg.com/vi/SbdOIdg2McI/maxresdefault.jpg",
+            "release_date": "2026-01-20"
+        },
+        {
+            "youtube_id": "wlHwjkYpSr0",
+            "title": "BABYMONSTER - ‘WE GO UP’ M/V",
+            "urlMp4": "https://wekaryatech.github.io/song/babymonster-wegoup.mp4",
+            "image": "https://i.ytimg.com/vi/wlHwjkYpSr0/maxresdefault.jpg",
+            "release_date": "2025-11-20"
         }
     ],
     "default_tags": "babymonster",
