@@ -37338,7 +37338,7 @@
         }
     ],
     "hide_adds_by_version": [],
-    "hide_adds_by_version_army": [],
+    "hide_adds_by_version_army": [13],
     "hide_adds_by_version_baemon": [
         
     ],
