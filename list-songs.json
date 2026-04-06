@@ -37437,9 +37437,7 @@
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
-    "hide_adds_by_version_enhypen": [
-        
-    ],
+    "hide_adds_by_version_enhypen": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
         {
@@ -37527,6 +37525,43 @@
             "urlMp4": "https://wekaryatech.github.io/song/blackpin-jennie-dracula.mp4",
             "image": "https://i.ytimg.com/vi/0UPDBODtxzw/maxresdefault.jpg",
             "release_date": "2026-03-20"
+        }
+    ],
+    "dataOtherApps": [
+        {
+            "title": "ARIRANG ARMY",
+            "url": "https://play.google.com/store/apps/details?id=com.enhypen.lyrics",
+            "tags": [
+                "bts",
+                "jungkook",
+                "kim tae-hyung",
+                "j-hope",
+                "jimin",
+                "rm",
+                "suga",
+                "jin"
+            ],
+            "image": "https://play-lh.googleusercontent.com/gmwm4mESvC8hzIIKqz0wm5hQgrkNoAlH-a4_xrS8NWG05pApoxgWHMSu7kv9zRWnkFY3I8nR7VVYXCinr5PTjAo=w240-h480"
+        },
+        {
+            "title": "BLACKPINK - BLINK",
+            "url": "https://play.google.com/store/apps/details?id=com.blackpink.deadline.tour",
+            "tags": [
+                "blackpink",
+                "rose",
+                "lisa",
+                "jennie",
+                "jisoo"
+            ],
+            "image": "https://play-lh.googleusercontent.com/4zvl3Br4QBMwP7c_tmg3Jlyc-qdI2Vf1qXH2piQzdLPyMX2nja34HT8R4um0Ld8UytmUWX2c4aQkKLHydnefL1A=w240-h480"
+        },
+        {
+            "title": "BABYMONSTER UPDATE",
+            "url": "https://play.google.com/store/apps/details?id=com.babymonster.lyrics",
+            "tags": [
+                "babymonster"
+            ],
+            "image": "https://play-lh.googleusercontent.com/vOcgkjDQs8BSjeDAZNWPe9yHBntn5uhKVadQkFZLl2nVbqTR6FiPGgi1R8XUjibM0_CWwzXKrd5AW_YuP95hRA=w240-h480"
         }
     ],
     "default_tags": "babymonster",
