@@ -37332,8 +37332,8 @@
             "youtube_id": "0UPDBODtxzw",
             "artist": "JENNIE",
             "tags": [
-                "jennie",
-                "blackpink"
+                "blackpink",
+                "jennie"
             ]
         },
         {
@@ -37430,6 +37430,23 @@
             "artist": "ENHYPEN (엔하이픈)",
             "tags": [
                 "enhypen"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/dKmPEhJ4wjY/maxresdefault.jpg",
+            "title": "Bad Angel",
+            "urlMp3": "https://wekaryatech.github.io/song/blackpink-lisabadangel.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-04-08",
+            "album": "THE SIN : VANISH",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "dKmPEhJ4wjY",
+            "artist": "Anyma, LISA",
+            "tags": [
+                "blackpink",
+                "lisa"
             ]
         }
     ],
