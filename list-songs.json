@@ -37452,7 +37452,7 @@
     ],
     "hide_adds_by_version": [26],
     "hide_adds_by_version_army": [],
-    "hide_adds_by_version_baemon": [],
+    "hide_adds_by_version_baemon": [27],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [],
     "dataListVoteEventBlink": [],
