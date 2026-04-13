@@ -37455,7 +37455,7 @@
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [],
-    "hide_adds_by_version_straykids": [],
+    "hide_adds_by_version_straykids": [1],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
         {
