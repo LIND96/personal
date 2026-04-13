@@ -37455,6 +37455,7 @@
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_enhypen": [],
+    "hide_adds_by_version_straykids": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
         {
@@ -37473,6 +37474,7 @@
         }
     ],
     "dataListVoteEventMonstiez": [],
+     "dataListMVStraykids":[]
     "dataListMVEnhypen": [
         {
             "youtube_id": "R6e4tBWxIxE",
