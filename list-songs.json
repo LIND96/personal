@@ -37448,6 +37448,54 @@
                 "blackpink",
                 "lisa"
             ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/swuhhziz3dM/maxresdefault.jpg",
+            "title": "별, 빛 (STAY)",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-stay.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-03-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "swuhhziz3dM",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/F-QSLxAyFes/maxresdefault.jpg",
+            "title": "Endless Sun",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-endless.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-03-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "F-QSLxAyFes",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
+            "title": "Do It",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-doit.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "NED7nev2ywQ",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
         }
     ],
     "hide_adds_by_version": [],
@@ -37474,7 +37522,15 @@
         }
     ],
     "dataListVoteEventMonstiez": [],
-    "dataListMVStraykids": [],
+    "dataListMVStraykids": [
+        {
+            "youtube_id": "NED7nev2ywQ",
+            "title": "Stray Kids 'Do It' M/V ",
+            "urlMp4": "https://wekaryatech.github.io/song/straykids-doit.mp4",
+            "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
+            "release_date": "2025-11-08"
+        }
+    ],
     "dataListMVEnhypen": [
         {
             "youtube_id": "R6e4tBWxIxE",
