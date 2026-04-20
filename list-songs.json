@@ -37482,32 +37482,16 @@
             ]
         },
         {
-            "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
-            "title": "Do It",
-            "urlMp3": "https://wekaryatech.github.io/song/straykids-doit.mp3",
-            "popularity": 3100000,
-            "release_date": "2025-11-08",
-            "album": "-",
-            "latin_lyric": null,
-            "korean_lyric": null,
-            "english_lyric": null,
-            "youtube_id": "NED7nev2ywQ",
-            "artist": "Stray Kids",
-            "tags": [
-                "straykids"
-            ]
-        },
-        {
-            "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/jQ7W5A-wwKo/maxresdefault.jpg",
             "title": "In My Head",
             "urlMp3": "https://wekaryatech.github.io/song/straykids-inmyhead.mp3",
             "popularity": 3100000,
-            "release_date": "2025-11-08",
+            "release_date": "2025-08-08",
             "album": "-",
             "latin_lyric": null,
             "korean_lyric": null,
             "english_lyric": null,
-            "youtube_id": "NED7nev2ywQ",
+            "youtube_id": "jQ7W5A-wwKo",
             "artist": "Stray Kids",
             "tags": [
                 "straykids"
@@ -37573,6 +37557,54 @@
             "popularity": 424000,
             "youtube_id": "BksBNbTIoPE",
             "urlMp3": "https://wekaryatech.github.io/song/jungkook-stillwityou.mp3"
+        },
+        {
+            "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
+            "title": "Do It",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-doit.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-11-08",
+            "album": "DO IT",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "NED7nev2ywQ",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/E8i32NXMxnc/maxresdefault.jpg",
+            "title": "신선놀음 (DIVINE)",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-divine.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-11-08",
+            "album": "DO IT",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "E8i32NXMxnc",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/EZh3S8-WmyU/maxresdefault.jpg",
+            "title": "Holiday",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-holiday.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-11-08",
+            "album": "DO IT",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "EZh3S8-WmyU",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
         }
     ],
     "hide_adds_by_version": [],
@@ -37606,6 +37638,13 @@
             "urlMp4": "https://wekaryatech.github.io/song/straykids-doit.mp4",
             "image": "https://i.ytimg.com/vi/NED7nev2ywQ/maxresdefault.jpg",
             "release_date": "2025-11-08"
+        },
+        {
+            "image": "https://i.ytimg.com/vi/E8i32NXMxnc/maxresdefault.jpg",
+            "title": "Stray Kids 신선놀음 (DIVINE) MV",
+            "urlMp4": "https://wekaryatech.github.io/song/straykids-divine.mp4",
+            "release_date": "2025-11-08",
+            "youtube_id": "E8i32NXMxnc"
         }
     ],
     "dataListMVEnhypen": [
