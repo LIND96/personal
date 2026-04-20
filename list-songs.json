@@ -37605,6 +37605,22 @@
             "tags": [
                 "straykids"
             ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/AdfIfFGCqgo/maxresdefault.jpg",
+            "title": "Hellevator",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-hellevator.mp3",
+            "popularity": 3100000,
+            "release_date": "2018-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "AdfIfFGCqgo",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
         }
     ],
     "hide_adds_by_version": [],
