@@ -37653,6 +37653,70 @@
             "tags": [
                 "straykids"
             ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/k8Y6ZTjmCXs/maxresdefault.jpg",
+            "title": "Red Lights",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-redlight.mp3",
+            "popularity": 3100000,
+            "release_date": "2022-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "k8Y6ZTjmCXs",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/Ihw3CqKMTog/maxresdefault.jpg",
+            "title": "TASTE",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-taste.mp3",
+            "popularity": 3100000,
+            "release_date": "2023-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "Ihw3CqKMTog",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/HcWDLNoqT8U/maxresdefault.jpg",
+            "title": "HaPpY",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-happy.mp3",
+            "popularity": 3100000,
+            "release_date": "2022-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "HcWDLNoqT8U",
+            "artist": "Stray Kids (HAN)",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/jxwFUMvd-fY/maxresdefault.jpg",
+            "title": "Lonely St",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-lonely.mp3",
+            "popularity": 3100000,
+            "release_date": "2022-11-08",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "jxwFUMvd-fY",
+            "artist": "Stray Kids (HAN)",
+            "tags": [
+                "straykids"
+            ]
         }
     ],
     "hide_adds_by_version": [],
