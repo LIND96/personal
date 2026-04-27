@@ -37717,6 +37717,22 @@
             "tags": [
                 "straykids"
             ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/877j46Z3GbQ/maxresdefault.jpg",
+            "title": "Moonstruck",
+            "urlMp3": "https://wekaryatech.github.io/song/enhypen-moonstruck.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-01-16",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "877j46Z3GbQ",
+            "artist": "ENHYPEN (엔하이픈)",
+            "tags": [
+                "enhypen"
+            ]
         }
     ],
     "hide_adds_by_version": [],
