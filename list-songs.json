@@ -37849,6 +37849,7 @@
     }
     ],
     "hide_adds_by_version": [],
+    "hide_adds_by_version_katseye": [1],
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
@@ -37888,6 +37889,7 @@
             "youtube_id": "E8i32NXMxnc"
         }
     ],
+    "dataListMVKatseye" : [],
     "dataListMVEnhypen": [
         {
             "youtube_id": "R6e4tBWxIxE",
