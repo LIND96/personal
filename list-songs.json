@@ -20,7 +20,8 @@
         "kpop demon hunters",
         "hearts2hearts",
         "aespa",
-        "straykids"
+        "straykids",
+        "katseye"
     ],
     "song_list": [
         {
@@ -37733,7 +37734,119 @@
             "tags": [
                 "enhypen"
             ]
-        }
+        },
+            {
+        "image": "https://i.ytimg.com/vi/R2-yomhYAj4/maxresdefault.jpg",
+        "title": "Gnarly",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-gnarly.mp3",
+        "popularity": 3100000,
+        "release_date": "2025-04-30",
+        "album": "Beautiful Chaos",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "R2-yomhYAj4",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/CjnB56tSCQI/maxresdefault.jpg",
+        "title": "Gabriela",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-gabriela.mp3",
+        "popularity": 3100000,
+        "release_date": "2025-06-20",
+        "album": "Beautiful Chaos",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "CjnB56tSCQI",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/-bC4iak3kxg/maxresdefault.jpg",
+        "title": "Gameboy",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-gameboy.mp3",
+        "popularity": 3100000,
+        "release_date": "2025-06-27",
+        "album": "Beautiful Chaos",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "-bC4iak3kxg",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/MGcPpYhuq-8/maxresdefault.jpg",
+        "title": "Mean Girls",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-mean-girls.mp3",
+        "popularity": 3100000,
+        "release_date": "2025-06-27",
+        "album": "Beautiful Chaos",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "MGcPpYhuq-8",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/4H7ZJQPPThY/maxresdefault.jpg",
+        "title": "M.I.A",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-mia.mp3",
+        "popularity": 3100000,
+        "release_date": "2025-06-27",
+        "album": "Beautiful Chaos",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "4H7ZJQPPThY",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/5q9EjSUovc4/maxresdefault.jpg",
+        "title": "Internet Girl",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-internet-girl.mp3",
+        "popularity": 3100000,
+        "release_date": "2026-01-02",
+        "album": "-",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "5q9EjSUovc4",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    },
+    {
+        "image": "https://i.ytimg.com/vi/7F1ET2XHQfk/maxresdefault.jpg",
+        "title": "PINKY UP",
+        "urlMp3": "https://wekaryatech.github.io/song/katseye-pinky-up.mp3",
+        "popularity": 3100000,
+        "release_date": "2026-04-09",
+        "album": "-",
+        "latin_lyric": null,
+        "korean_lyric": null,
+        "english_lyric": null,
+        "youtube_id": "7F1ET2XHQfk",
+        "artist": "KATSEYE",
+        "tags": [
+            "katseye"
+        ]
+    }
     ],
     "hide_adds_by_version": [],
     "hide_adds_by_version_army": [],
