@@ -37926,6 +37926,70 @@
             "tags": [
                 "katseye"
             ]
+        },
+        {
+            "title": "CHOOM",
+            "release_date": "2026-05-04",
+            "album": "CHOOM",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 46000,
+            "youtube_id": "x3eqqoZPV_E",
+            "urlMp3": "https://wekaryatech.github.io/song/babymonster-choom.mp3",
+            "image": "https://i.ytimg.com/vi/x3eqqoZPV_E/maxresdefault.jpg"
+        },
+        {
+            "title": "LOCKED IN",
+            "release_date": "2026-05-04",
+            "album": "CHOOM",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 46000,
+            "youtube_id": "PDs_wgMaG48",
+            "urlMp3": "https://wekaryatech.github.io/song/babymonster-lockedin.mp3",
+            "image": "https://i.ytimg.com/vi/PDs_wgMaG48/maxresdefault.jpg"
+        },
+        {
+            "title": "I LIKE IT",
+            "release_date": "2026-05-04",
+            "album": "CHOOM",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 46000,
+            "youtube_id": "nHcM0hzkHi0",
+            "urlMp3": "https://wekaryatech.github.io/song/babymonster-ilikeit.mp3",
+            "image": "https://i.ytimg.com/vi/nHcM0hzkHi0/maxresdefault.jpg"
+        },
+        {
+            "title": "MOON",
+            "release_date": "2026-05-04",
+            "album": "CHOOM",
+            "artist": "BABYMONSTER",
+            "tags": [
+                "babymonster"
+            ],
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "popularity": 46000,
+            "youtube_id": "8cFKPrxrrJM",
+            "urlMp3": "https://wekaryatech.github.io/song/babymonster-moon.mp3",
+            "image": "https://i.ytimg.com/vi/8cFKPrxrrJM/maxresdefault.jpg"
         }
     ],
     "hide_adds_by_version": [],
@@ -38026,6 +38090,13 @@
         }
     ],
     "dataListMVBabymonster": [
+         {
+            "youtube_id": "x3eqqoZPV_E",
+            "title": "BABYMONSTER - '춤 (CHOOM)' M/V",
+            "urlMp4": "https://wekaryatech.github.io/song/babymonster-choom.mp4",
+            "image": "https://i.ytimg.com/vi/x3eqqoZPV_E/maxresdefault.jpg",
+            "release_date": "2026-01-20"
+        },
         {
             "youtube_id": "SbdOIdg2McI",
             "title": "BABYMONSTER - ‘SUPA DUPA LUV’ M/V",
