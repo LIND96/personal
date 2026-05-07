@@ -39495,7 +39495,7 @@
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
-    "hide_adds_by_version_enhypen": [],
+    "hide_adds_by_version_enhypen": [6],
     "hide_adds_by_version_straykids": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
@@ -39705,5 +39705,5 @@
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 2,
-    "promotion_count_enhypen": 3
+    "promotion_count_enhypen": 2
 }
