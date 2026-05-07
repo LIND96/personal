@@ -39016,7 +39016,7 @@
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
-    "hide_adds_by_version_enhypen": [6,7],
+    "hide_adds_by_version_enhypen": [],
     "hide_adds_by_version_straykids": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
@@ -39062,20 +39062,7 @@
         }
     ],
     "dataListMVEnhypen": [
-        {
-            "youtube_id": "R6e4tBWxIxE",
-            "title": "ENHYPEN (엔하이픈) 'Knife' Official MV",
-            "urlMp4": "https://wekaryatech.github.io/song/enhypen-knife.mp4",
-            "image": "https://i.ytimg.com/vi/R6e4tBWxIxE/maxresdefault.jpg",
-            "release_date": "2026-01-16"
-        },
-        {
-            "youtube_id": "3s3BVG798aU",
-            "title": "ENHYPEN (엔하이픈) 'No Way Back (Feat. So!YoON!)' MV",
-            "urlMp4": "https://wekaryatech.github.io/song/enhypen-noway.mp4",
-            "image": "https://i.ytimg.com/vi/3s3BVG798aU/maxresdefault.jpg",
-            "release_date": "2026-01-16"
-        }
+    
     ],
     "dataListMVArmy": [
         {
