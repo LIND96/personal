@@ -39356,6 +39356,87 @@
             ]
         },
         {
+            "image": "https://i.ytimg.com/vi/l9CZykYZkOQ/maxresdefault.jpg",
+            "title": "Touch",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-touch.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-06-27",
+            "album": "Beautiful Chaos",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "l9CZykYZkOQ",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/Oswujxm2Ag0/maxresdefault.jpg",
+            "title": "Unfair",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-unfair.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "Oswujxm2Ag0",
+            "artist": "Stray Kids Felix",
+            "tags": [
+                "straykids",
+                "felix"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/T_6oPwsJgxI/maxresdefault.jpg",
+            "title": "Leave",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-leave.mp3",
+            "popularity": 3100000,
+            "release_date": "2024-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "T_6oPwsJgxI",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/pok5yDw77uM/maxresdefault.jpg",
+            "title": "My Pace",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-mypace.mp3",
+            "popularity": 3100000,
+            "release_date": "2019-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "pok5yDw77uM",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/Fpgd3ac3_nM/maxresdefault.jpg",
+            "title": "Levanter",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-levanter.mp3",
+            "popularity": 3100000,
+            "release_date": "2020-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "Fpgd3ac3_nM",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/5q9EjSUovc4/maxresdefault.jpg",
             "title": "Internet Girl",
             "urlMp3": "https://wekaryatech.github.io/song/katseye-internet-girl.mp3",
@@ -39897,7 +39978,10 @@
     "hide_adds_by_version_army": [],
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
-    "hide_adds_by_version_enhypen": [6,7],
+    "hide_adds_by_version_enhypen": [
+        6,
+        7
+    ],
     "hide_adds_by_version_straykids": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [
