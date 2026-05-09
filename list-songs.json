@@ -40625,6 +40625,132 @@
             "popularity": 90000,
             "youtube_id": "X1xQhbffaN8",
             "latin_lyric": []
+        },
+        {
+            "title": "The Chase",
+            "release_date": "2025-02-24",
+            "album": "The Chase",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-the-chase.mp3",
+            "image": "https://i.ytimg.com/vi/kxUA2wwYiME/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "kxUA2wwYiME",
+            "latin_lyric": []
+        },
+        {
+            "title": "Butterflies",
+            "release_date": "2025-02-24",
+            "album": "The Chase",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-butterflies.mp3",
+            "image": "https://i.ytimg.com/vi/hJ9Wp3PO3c8/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "hJ9Wp3PO3c8",
+            "latin_lyric": []
+        },
+        {
+            "title": "Style",
+            "release_date": "2025-06-18",
+            "album": "STYLE",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-style.mp3",
+            "image": "https://i.ytimg.com/vi/n7kFRxFIPrI/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "n7kFRxFIPrI",
+            "latin_lyric": []
+        },
+        {
+            "title": "Pretty Please",
+            "release_date": "2025-09-24",
+            "album": "FOCUS",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-pretty-please.mp3",
+            "image": "https://i.ytimg.com/vi/ufwB9Uja_wM/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "ufwB9Uja_wM",
+            "latin_lyric": []
+        },
+        {
+            "title": "FOCUS",
+            "release_date": "2025-10-20",
+            "album": "FOCUS",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-focus.mp3",
+            "image": "https://i.ytimg.com/vi/Ur7aK4FvK-U/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "Ur7aK4FvK-U",
+            "latin_lyric": []
+        },
+        {
+            "title": "Apple Pie",
+            "release_date": "2025-10-20",
+            "album": "FOCUS",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-apple-pie.mp3",
+            "image": "https://i.ytimg.com/vi/4k_HiMxY_gg/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "4k_HiMxY_gg",
+            "latin_lyric": []
+        },
+        {
+            "title": "Flutter",
+            "release_date": "2025-10-20",
+            "album": "FOCUS",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-flutter.mp3",
+            "image": "https://i.ytimg.com/vi/sXApG5MkuNU/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "sXApG5MkuNU",
+            "latin_lyric": []
+        },
+        {
+            "title": "Blue Moon",
+            "release_date": "2025-10-20",
+            "album": "FOCUS",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-blue-moon.mp3",
+            "image": "https://i.ytimg.com/vi/GxOb7WY88NM/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "GxOb7WY88NM",
+            "latin_lyric": []
+        },
+        {
+            "title": "RUDE!",
+            "release_date": "2026-02-20",
+            "album": "-",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-rude.mp3",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "F7sGJVUrkjQ",
+            "latin_lyric": []
         }
     ],
     "hide_adds_by_version": [],
@@ -40638,11 +40764,21 @@
     ],
     "hide_adds_by_version_straykids": [],
     "hide_adds_by_version_illit": [],
+    "hide_adds_by_version_hearts2hearts": [],
     "hide_adds_by_version_cortis": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [],
     "dataListVoteEventMonstiez": [],
     "dataListMVIllit": [],
+    "dataListMVHearts2hearts": [
+        {
+            "youtube_id": "F7sGJVUrkjQ",
+            "title": "Hearts2Hearts 하츠투하츠 'RUDE!' MV",
+            "urlMp4": "https://wekaryatech.github.io/song/hearts2hearts-rude.mp4",
+            "image": "https://i.ytimg.com/vi/F7sGJVUrkjQ/maxresdefault.jpg",
+            "release_date": "2026-02-20"
+        }
+    ],
     "dataListMVCortis": [
         {
             "youtube_id": "WXS-o57VJ5w",
