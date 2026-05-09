@@ -40195,11 +40195,18 @@
     "dataListVoteEventMonstiez": [],
     "dataListMVCortis": [
         {
-            "youtube_id": "7F1ET2XHQfk",
-            "title": "KATSEYE (캣츠아이) 'PINKY UP' Official MV",
-            "urlMp4": "https://wekaryatech.github.io/song/katseye-pinky-up.mp4",
-            "image": "https://i.ytimg.com/vi/7F1ET2XHQfk/maxresdefault.jpg",
-            "release_date": "2026-04-09"
+            "youtube_id": "WXS-o57VJ5w",
+            "title": "CORTIS (코르티스) 'GO!' Official MV",
+            "urlMp4": "https://wekaryatech.github.io/song/cortis-go.mp4",
+            "image": "https://i.ytimg.com/vi/WXS-o57VJ5w/maxresdefault.jpg",
+            "release_date": "2025-08-11"
+        },
+        {
+            "youtube_id": "U6BDbXIah-Y",
+            "title": "CORTIS (코르티스) 'REDRED' Official MV",
+            "urlMp4": "https://wekaryatech.github.io/song/cortis-redred.mp4",
+            "image": "https://i.ytimg.com/vi/U6BDbXIah-Y/maxresdefault.jpg",
+            "release_date": "2026-04-26"
         }
     ],
     "dataListMVStraykids": [
