@@ -171,6 +171,19 @@
             "youtube_id": "phuiiNCxRMg"
         },
         {
+            "title": "WDA (Whole Different Animal)",
+            "release_date": "2024-05-13",
+            "album": "-",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/iTJSbJtS8MU/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-wda.mp3",
+            "youtube_id": "iTJSbJtS8MU"
+        },
+        {
             "title": "Whiplash",
             "release_date": "2024-10-21",
             "album": "Whiplash",
