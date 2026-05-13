@@ -39145,6 +39145,22 @@
             ]
         },
         {
+            "image": "https://i.ytimg.com/vi/hKo59kh-WBA/maxresdefault.jpg",
+            "title": "My Way",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-myway.mp3",
+            "popularity": 3100000,
+            "release_date": "2024-08-30",
+            "album": "SIS (Soft Is Strong)",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "hKo59kh-WBA",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg",
             "title": "Debut",
             "urlMp3": "https://wekaryatech.github.io/song/katseye-debut.mp3",
