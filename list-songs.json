@@ -39145,6 +39145,22 @@
             ]
         },
         {
+            "image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg",
+            "title": "Debut",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-debut.mp3",
+            "popularity": 3100000,
+            "release_date": "2025-04-30",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "bYg6aMDQ_TA",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/CjnB56tSCQI/maxresdefault.jpg",
             "title": "Gabriela",
             "urlMp3": "https://wekaryatech.github.io/song/katseye-gabriela.mp3",
@@ -39388,6 +39404,38 @@
             "tags": [
                 "straykids",
                 "felix"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/OvioeS1ZZ7o/maxresdefault.jpg",
+            "title": "MANIAC",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-maniac.mp3",
+            "popularity": 3100000,
+            "release_date": "2022-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "OvioeS1ZZ7o",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/HZgvPXXCeI8/maxresdefault.jpg",
+            "title": "Phobia",
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-phobia.mp3",
+            "popularity": 3100000,
+            "release_date": "2021-06-27",
+            "album": "-",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "HZgvPXXCeI8",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
             ]
         },
         {
@@ -40414,6 +40462,20 @@
                 "Tastes like jelly neoui ko, everytime I see your face nae mam ayahae, paw (Paw, paw, paw)",
                 "Tastes like jelly neoui bal, nae imae daeul ttae nunmuri ping, paw"
             ]
+        },
+        {
+            "title": "Sunday Morning",
+            "release_date": "2026-01-30",
+            "album": "-",
+            "artist": "ILLIT",
+            "tags": [
+                "illit"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/illit-sundaymorning.mp3",
+            "image": "https://i.ytimg.com/vi/01oDwXKSuE/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "01oDwXKSuE",
+            "latin_lyric": []
         },
         {
             "title": "Mamihlapinatapai",
