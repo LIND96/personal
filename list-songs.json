@@ -39161,12 +39161,44 @@
             ]
         },
         {
+            "image": "https://i.ytimg.com/vi/H-R87It_dKw/maxresdefault.jpg",
+            "title": "I'm Pretty",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-imprety.mp3",
+            "popularity": 3100000,
+            "release_date": "2024-08-30",
+            "album": "SIS (Soft Is Strong)",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "H-R87It_dKw",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/21ipP_aiYME/maxresdefault.jpg",
+            "title": "Tonight I Might",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-tonight.mp3",
+            "popularity": 3100000,
+            "release_date": "2024-08-30",
+            "album": "SIS (Soft Is Strong)",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "21ipP_aiYME",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/bYg6aMDQ_TA/maxresdefault.jpg",
             "title": "Debut",
             "urlMp3": "https://wekaryatech.github.io/song/katseye-debut.mp3",
             "popularity": 3100000,
-            "release_date": "2025-04-30",
-            "album": "-",
+            "release_date": "2024-08-30",
+            "album": "SIS (Soft Is Strong)",
             "latin_lyric": null,
             "korean_lyric": null,
             "english_lyric": null,
