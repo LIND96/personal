@@ -54,6 +54,19 @@
             "youtube_id": "P7vBoGWoReg"
         },
         {
+            "title": "CHEESE",
+            "release_date": "2022-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/YLtEc-kvOqA/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-cheese.mp3",
+            "youtube_id": "YLtEc-kvOqA"
+        },
+        {
             "title": "Maknae On Top (막내온탑)",
             "release_date": "2021-08-22",
             "album": "-",
