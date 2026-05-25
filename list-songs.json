@@ -67,6 +67,19 @@
             "youtube_id": "YLtEc-kvOqA"
         },
         {
+            "title": "Lose My Breath",
+            "release_date": "2024-08-22",
+            "album": "-",
+            "artist": "Stray Kids (Feat. Charlie Puth)",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/SQ1yPMTIwCU/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-losemybreath.mp3",
+            "youtube_id": "SQ1yPMTIwCU"
+        },
+        {
             "title": "Maknae On Top (막내온탑)",
             "release_date": "2021-08-22",
             "album": "-",
