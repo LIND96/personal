@@ -80,6 +80,19 @@
             "youtube_id": "SQ1yPMTIwCU"
         },
         {
+            "title": "Charmer",
+            "release_date": "2022-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/BCZE-44jp_I/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-Charmer.mp3",
+            "youtube_id": "BCZE-44jp_I"
+        },
+        {
             "title": "Maknae On Top (막내온탑)",
             "release_date": "2021-08-22",
             "album": "-",
