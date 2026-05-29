@@ -67,6 +67,19 @@
             "youtube_id": "ZVHPTVzadCg"
         },
         {
+            "title": "The View",
+            "release_date": "2023-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/v202rmUuBis/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-theview.mp3",
+            "youtube_id": "v202rmUuBis"
+        },
+        {
             "title": "Falling Up",
             "release_date": "2025-08-22",
             "album": "-",
