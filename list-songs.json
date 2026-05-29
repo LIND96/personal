@@ -53,6 +53,32 @@
             "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
             "youtube_id": "P7vBoGWoReg"
         },
+         {
+            "title": "Deep end",
+            "release_date": "2023-08-22",
+            "album": "-",
+            "artist": "Stray Kids - Felix",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/ZVHPTVzadCg/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-deepend.mp3",
+            "youtube_id": "ZVHPTVzadCg"
+        },
+        {
+            "title": "Falling Up",
+            "release_date": "2025-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/gayXmHBpaCc/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-fallingup.mp3",
+            "youtube_id": "gayXmHBpaCc"
+        },
         {
             "title": "CHEESE",
             "release_date": "2022-08-22",
