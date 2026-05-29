@@ -80,6 +80,19 @@
             "youtube_id": "v202rmUuBis"
         },
         {
+            "title": "VENOM",
+            "release_date": "2022-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/pM-jOfy_1jM/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-venom.mp3",
+            "youtube_id": "pM-jOfy_1jM"
+        },
+        {
             "title": "Falling Up",
             "release_date": "2025-08-22",
             "album": "-",
