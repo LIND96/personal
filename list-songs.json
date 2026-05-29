@@ -261,6 +261,19 @@
             "urlMp3": "https://wekaryatech.github.io/song/aespa-super.mp3",
             "youtube_id": "phuiiNCxRMg"
         },
+          {
+            "title": "LEMONADE",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-LEMONADE.mp3",
+            "youtube_id": "83C3TZ4Zm_o"
+        },
         {
             "title": "WDA (Whole Different Animal)",
             "release_date": "2026-05-11",
