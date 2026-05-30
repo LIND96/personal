@@ -53,7 +53,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
             "youtube_id": "P7vBoGWoReg"
         },
-         {
+        {
             "title": "Deep end",
             "release_date": "2023-08-22",
             "album": "-",
@@ -313,7 +313,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/aespa-super.mp3",
             "youtube_id": "phuiiNCxRMg"
         },
-          {
+        {
             "title": "LEMONADE",
             "release_date": "2026-05-29",
             "album": "LEMONADE",
@@ -321,15 +321,119 @@
             "tags": [
                 "aespa"
             ],
-            "image": "https://i.ytimg.com/vi/83C3TZ4Zm_o/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/LBhcqYqeu0U/maxresdefault.jpg",
             "popularity": 2200000,
             "urlMp3": "https://wekaryatech.github.io/song/aespa-LEMONADE.mp3",
             "youtube_id": "83C3TZ4Zm_o"
         },
         {
+            "title": "SHAKIN",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/UXnuIai8Ewo/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-SHAKIN.mp3",
+            "youtube_id": "UXnuIai8Ewo"
+        },
+        {
+            "title": "Can't Help Myself",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/5tAKxwCldT4/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-helpmy.mp3",
+            "youtube_id": "5tAKxwCldT4"
+        },
+        {
+            "title": "Camouflage",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/DFUe0rPqPsQ/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-Camouflage.mp3",
+            "youtube_id": "DFUe0rPqPsQ"
+        },
+        {
+            "title": "Bite",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/7GgwG90lGio/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-Bite.mp3",
+            "youtube_id": "7GgwG90lGio"
+        },
+        {
+            "title": "Switchblade (feat. Ty Dolla $ign)",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/KyF0AMcunVg/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-switch.mp3",
+            "youtube_id": "KyF0AMcunVg"
+        },
+        {
+            "title": "Roll",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/9vTp5V1zbsc/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-Roll.mp3",
+            "youtube_id": "9vTp5V1zbsc"
+        },
+        {
+            "title": "My Plan",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/OJaaRu9Qyuo/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-plan.mp3",
+            "youtube_id": "OJaaRu9Qyuo"
+        },
+         {
+            "title": "Til We Die",
+            "release_date": "2026-05-29",
+            "album": "LEMONADE",
+            "artist": "aespa",
+            "tags": [
+                "aespa"
+            ],
+            "image": "https://i.ytimg.com/vi/OJaaRu9Qyuo/maxresdefault.jpg",
+            "popularity": 2200000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-tillwedie.mp3",
+            "youtube_id": "DJRrOBB8z8M"
+        },
+        {
             "title": "WDA (Whole Different Animal)",
             "release_date": "2026-05-11",
-            "album": "-",
+            "album": "LEMONADE",
             "artist": "aespa",
             "tags": [
                 "aespa"
