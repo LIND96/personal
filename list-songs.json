@@ -54,6 +54,134 @@
             "youtube_id": "P7vBoGWoReg"
         },
         {
+            "title": "Ceremony",
+            "release_date": "2025-08-22",
+            "album": "KARMA",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/P7vBoGWoReg/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
+            "youtube_id": "P7vBoGWoReg"
+        },
+        {
+            "title": "Hall of Fame",
+            "release_date": "2024-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/XRx2vo9UeWg/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-halloffame.mp3",
+            "youtube_id": "XRx2vo9UeWg"
+        },
+        {
+            "title": "Youtiful",
+            "release_date": "2024-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/RrFn_KJn7Rk/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-Youtiful.mp3",
+            "youtube_id": "RrFn_KJn7Rk"
+        },
+        {
+            "title": "Thunderous",
+            "release_date": "2022-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/EaswWiwMVs8/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-Thunderous.mp3",
+            "youtube_id": "EaswWiwMVs8"
+        },
+        {
+            "title": "God's Menu",
+            "release_date": "2021-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/TQTlCHxyuu8/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-gods.mp3",
+            "youtube_id": "TQTlCHxyuu8"
+        },
+        {
+            "title": "Roman Empire",
+            "release_date": "2026-01-22",
+            "album": "-",
+            "artist": "Fendi x Bang Chan",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/wPD4AxkqJkE/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-roman.mp3",
+            "youtube_id": "wPD4AxkqJkE",
+            "latin_lyric": [
+                "(I've been waiting so long, can you hear me?)",
+                "Yeah (Ta-ta, na, na-na-na; sì, sì)",
+                "Mm (Sì, sì), ayy, ayy (Sì, sì)",
+                "My Roman Empire, you're my Roman Empire",
+                "",
+                "Ciao bella, you shine brighter than the stars, so stellar",
+                "Ah, ah, that leather, I swear it looks better when we are together",
+                "Ah, ah, I'll fight for ya, you make me wanna be your best gladiator, yeah",
+                "My Roman Empire, you're my Roman Empire",
+                "",
+                "Girl, you're looking so fine (You, you, you)",
+                "Yeah, you're one of a kind (Oh, my)",
+                "Girl, you're looking so fine",
+                "I got that matte black pure-bred stallion, let me take you for a ride in Roma",
+                "",
+                "Hundred years ain't enough when I'm here with you",
+                "You appeared out of nowhere like peek-a-boo",
+                "Got me feeling so shocked when I peek at you",
+                "My Roman Empire, you're my Roman Empire",
+                "",
+                "I'm just way too obsessed with the way that you dance, my baby",
+                "Just let that body move",
+                "Girl, the way that you're dressed got my head in a mess",
+                "My Roman Empire",
+                "",
+                "Oh, a hundred days (Sì, sì), a hundred weeks (Sì, sì)",
+                "A hundred months, hundred years, I'll love you like the Eternal City",
+                "You're the F to my F, yes",
+                "We'll never age, \"Forever F\" (Sì, sì)",
+                "",
+                "It's only you and I tonight",
+                "I'll take you to a place that's out of si-ight",
+                "Just hold on to my hands, I'll be your knight",
+                "I got that matte black pure-bred stallion, let me take you for a ride in Roma",
+                "",
+                "Hundred years ain't enough when I'm here with you",
+                "You appeared out of nowhere like peek-a-boo",
+                "Got me feeling so shocked when I peek at you (Ooh, woah)",
+                "My Roman Empire, you're my Roman Empire",
+                "",
+                "I'm just way too obsessed with the way that you dance, my baby",
+                "Just let that body move",
+                "Girl, the way that you're dressed got my head in a mess",
+                "My Roman Empire, you're my Roman Empire",
+                "",
+                "(Sì, sì)",
+                "(You're my Roman Empire)",
+                "(Sì, sì)"
+            ]
+        },
+        {
             "title": "Deep end",
             "release_date": "2023-08-22",
             "album": "-",
@@ -417,7 +545,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/aespa-plan.mp3",
             "youtube_id": "OJaaRu9Qyuo"
         },
-         {
+        {
             "title": "Til We Die",
             "release_date": "2026-05-29",
             "album": "LEMONADE",
