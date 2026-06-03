@@ -920,8 +920,8 @@
             "latin_lyric": null,
             "artist": "KPop Demon Hunters (Saja Boys)",
             "tags": [
-                "kpop demon hunters"
-
+                "kpop demon hunters",
+                "trend"
             ],
             "trending": 2
         },
@@ -936,8 +936,8 @@
             "latin_lyric": null,
             "artist": "KPop Demon Hunters (Saja Boys)",
             "tags": [
-                "kpop demon hunters"
-
+                "kpop demon hunters",
+                "trend"
             ],
             "trending": 3
         },
@@ -952,8 +952,8 @@
             "latin_lyric": null,
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
-                "kpop demon hunters"
-
+                "kpop demon hunters",
+                "trend"
             ]
         },
         {
@@ -967,8 +967,8 @@
             "latin_lyric": null,
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
-                "kpop demon hunters"
-
+                "kpop demon hunters",
+                "trend"
             ]
         },
         {
@@ -982,8 +982,8 @@
             "latin_lyric": null,
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
-                "kpop demon hunters"
-
+                "kpop demon hunters",
+                "trend"
             ],
             "trending": 1
         },
@@ -44930,7 +44930,8 @@
             "title": "LE SSERAFIM - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.lesserafim.uk",
             "tags": [
-                "lesserafim"
+                "lesserafim",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/mskPRtUIypKwwFlc1_wiynTieapMVK6ifAJQ72Uxz9OyVg0MLH4DqcIDqbD--VsM1RIKuoz8363nBLd4RifTsrE=w480-h960-rw"
         },
@@ -44938,7 +44939,8 @@
             "title": "NEWJEANS - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.newjeans.uk",
             "tags": [
-                "newjeans"
+                "newjeans",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw"
         },
@@ -44946,7 +44948,8 @@
             "title": "SEVENTEEN UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk",
             "tags": [
-                "seventeen"
+                "seventeen",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/4LYrMLn3_QlSCJoxdQ7QUefsAG4qicO_810yI3hrLXlqIcv4_JbuXT6CUxLt45hplYumpT98w4AMCi_J991u=w480-h960-rw"
         },
@@ -44975,6 +44978,7 @@
             "image": "https://play-lh.googleusercontent.com/Kjs4viDlPc0AumPRaovpZMWJTtXzUo0Yh07xOS_L4T_ZSngDBgz149RL8hqjqe4t7Cia78Z342ZqqaJrTNJX=w240-h480"
         }
     ],
+    "any_new_apps": "true",
     "default_tags": "babymonster",
     "splash_screen": "https://lind96.github.io/personal/splashscreen.png",
     "promotion_count": 3,
