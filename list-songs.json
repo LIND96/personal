@@ -18,6 +18,7 @@
         "babymonster",
         "txt",
         "kpop demon hunters",
+        "trend",
         "hearts2hearts",
         "aespa",
         "straykids",
@@ -921,7 +922,8 @@
             "artist": "KPop Demon Hunters (Saja Boys)",
             "tags": [
                 "kpop demon hunters"
-            ],
+
+"trend",            ],
             "trending": 2
         },
         {
@@ -936,7 +938,8 @@
             "artist": "KPop Demon Hunters (Saja Boys)",
             "tags": [
                 "kpop demon hunters"
-            ],
+
+"trend",            ],
             "trending": 3
         },
         {
@@ -951,7 +954,8 @@
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
                 "kpop demon hunters"
-            ]
+
+"trend",            ]
         },
         {
             "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
@@ -965,7 +969,8 @@
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
                 "kpop demon hunters"
-            ]
+
+"trend",            ]
         },
         {
             "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
@@ -979,7 +984,8 @@
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
                 "kpop demon hunters"
-            ],
+
+"trend",            ],
             "trending": 1
         },
         {
@@ -44837,6 +44843,7 @@
             "release_date": "2026-03-20"
         }
     ],
+    "any_new_apps": true,
     "dataOtherApps": [
         {
             "title": "AESPA UPDATE",
@@ -44925,7 +44932,8 @@
             "title": "LE SSERAFIM - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.lesserafim.uk",
             "tags": [
-                "lesserafim"
+                "lesserafim",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/mskPRtUIypKwwFlc1_wiynTieapMVK6ifAJQ72Uxz9OyVg0MLH4DqcIDqbD--VsM1RIKuoz8363nBLd4RifTsrE=w480-h960-rw"
         },
@@ -44933,7 +44941,8 @@
             "title": "NEWJEANS - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.newjeans.uk",
             "tags": [
-                "newjeans"
+                "newjeans",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw"
         },
@@ -44941,7 +44950,8 @@
             "title": "SEVENTEEN UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk",
             "tags": [
-                "seventeen"
+                "seventeen",
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/4LYrMLn3_QlSCJoxdQ7QUefsAG4qicO_810yI3hrLXlqIcv4_JbuXT6CUxLt45hplYumpT98w4AMCi_J991u=w480-h960-rw"
         },
