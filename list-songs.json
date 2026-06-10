@@ -48798,6 +48798,21 @@
                 "Saljjak witaeroun jigeum",
                 "Dareun geollon jeolttae manjog mot hae"
             ]
+        },
+        {
+            "title": "ICONIC BY MISTAKE",
+            "release_date": "2026-06-11",
+            "album": "-",
+            "artist": "Le Sserafim x KATSEYE x ILLIT",
+            "tags": [
+                "lesserafim",
+                "illit",
+                "katseye"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/group-ICONIC.mp3",
+            "image": "https://i.ytimg.com/vi/27C4pfRsf9g/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "27C4pfRsf9g"
         }
     ],
     "hide_adds_by_version": [],
