@@ -40166,11 +40166,8 @@
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_ive": [],
-    "hide_adds_by_version_newjeans": [
-        1,
-        2,
-        3
-    ],
+    "hide_adds_by_version_seventeen":[1,2],
+    "hide_adds_by_version_newjeans": [],
     "hide_adds_by_version_enhypen": [
         1,
         2,
