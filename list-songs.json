@@ -40474,5 +40474,6 @@
     ],
     "any_new_apps": "true",
     "promotion_count": 3,
+    "promotion_count_debounce": 3,
     "promotion_count_enhypen": 3
 }
