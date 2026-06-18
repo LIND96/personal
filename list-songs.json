@@ -14,17 +14,46 @@
             "youtube_id": "aTqchg0BUG4"
         },
         {
-            "title": "Ceremony",
+            "title": "Toki Yo Tomare",
             "release_date": "2025-08-22",
-            "album": "KARMA",
-            "artist": "Stray Kids",
+            "album": "-",
+            "artist": "ILLIT",
             "tags": [
-                "straykids"
+                "illit",
+                "request"
             ],
-            "image": "https://i.ytimg.com/vi/P7vBoGWoReg/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/HeqsjDF7Lw0/maxresdefault.jpg",
             "popularity": 1500000,
-            "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
-            "youtube_id": "P7vBoGWoReg"
+            "urlMp3": "https://wekaryatech.github.io/song/illit-toki.mp3",
+            "youtube_id": "HeqsjDF7Lw0"
+        },
+        {
+            "title": "Hot",
+            "release_date": "2025-08-22",
+            "album": "-",
+            "artist": "Le Sserafim",
+            "tags": [
+                "lesserafim",
+                "request"
+            ],
+            "image": "https://i.ytimg.com/vi/r9AEGPB6qIU/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/lesserafim-hot.mp3",
+            "youtube_id": "r9AEGPB6qIU"
+        },
+        {
+            "title": "XOXZ",
+            "release_date": "2025-08-22",
+            "album": "-",
+            "artist": "IVE",
+            "tags": [
+                "ive",
+                "request"
+            ],
+            "image": "https://i.ytimg.com/vi/B1ShLiq3EVc/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/ive-XOXZ.mp3",
+            "youtube_id": "B1ShLiq3EVc"
         },
         {
             "title": "Ceremony",
@@ -40166,7 +40195,10 @@
     "hide_adds_by_version_baemon": [],
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_ive": [],
-    "hide_adds_by_version_seventeen":[1,2],
+    "hide_adds_by_version_seventeen": [
+        1,
+        2
+    ],
     "hide_adds_by_version_newjeans": [],
     "hide_adds_by_version_enhypen": [
         1,
@@ -40181,7 +40213,7 @@
     "hide_adds_by_version_illit": [],
     "hide_adds_by_version_hearts2hearts": [],
     "hide_adds_by_version_cortis": [],
-    "hide_adds_by_version_txt":[],
+    "hide_adds_by_version_txt": [],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [],
     "dataListVoteEventMonstiez": [],
