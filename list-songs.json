@@ -1,5 +1,18 @@
 {
     "song_list": [
+         {
+            "title": "Ride or Die",
+            "release_date": "2026-06-22",
+            "album": "-",
+            "artist": "EVAN (에반)",
+            "tags": [
+                "enhypen"
+            ],
+            "image": "https://i.ytimg.com/vi/CsGENgLpyaw/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/enhypen-rideordie.mp3",
+            "youtube_id": "CsGENgLpyaw"
+        },
         {
             "title": "Lemon Tang",
             "release_date": "2026-06-22",
