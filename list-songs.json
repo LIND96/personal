@@ -121,6 +121,19 @@
             "youtube_id": "TQTlCHxyuu8"
         },
         {
+            "title": "Railway",
+            "release_date": "2025-08-22",
+            "album": "-",
+            "artist": "Bang Chan",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/27rdSyt-Qt8/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-railway.mp3",
+            "youtube_id": "27rdSyt-Qt8"
+        },
+        {
             "title": "TOPLINE (Feat. Tiger JK)",
             "release_date": "2024-08-22",
             "album": "-",
