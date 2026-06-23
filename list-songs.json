@@ -40547,6 +40547,7 @@
     ],
     "any_new_apps": "true",
     "promotion_count": 3,
+    "reward_count_debounce":2,
     "promotion_count_debounce": 3,
     "promotion_count_appodeal": 4,
     "promotion_count_enhypen": 3
