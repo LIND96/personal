@@ -149,6 +149,19 @@
             ]
         },
         {
+            "title": "RUN IT",
+            "release_date": "2026-06-24",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/Q7IFjVUUb_E/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-runit.mp3",
+            "youtube_id": "Q7IFjVUUb_E"
+        },
+        {
             "title": "EYES CLOSED",
             "release_date": "2025-10-10",
             "album": "-",
