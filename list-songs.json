@@ -40554,6 +40554,8 @@
     "reward_aespa_debounce":2,
     "reward_txt_debounce":2,
     "reward_army_debounce":3,
+    "reward_cortis_debounce":2,
+    "reward_katseye_debounce":2,
     "reward_lesserafim_debounce":2,
     "reward_hearts2hearts_debounce":2,
     "reward_newjeans_debounce":2,
