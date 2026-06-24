@@ -40702,7 +40702,8 @@
     "reward_katseye_debounce": 2,
     "reward_lesserafim_debounce": 2,
     "reward_hearts2hearts_debounce": 2,
-    "reward_newjeans_debounce": 2,
+    "reward_newjeans_debounce": 1,
+     "reward_enhypen_debounce": 2,
     "promotion_count_debounce": 3,
     "promotion_count_appodeal": 4,
     "promotion_count_enhypen": 3
