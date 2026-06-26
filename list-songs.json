@@ -1,12 +1,13 @@
 {
     "song_list": [
         {
-            "title": "Under Maintenance",
+            "title": "STRAY KIDS UPDATE",
             "release_date": "2021-05-17",
-            "album": "we will be back soon",
-            "artist": "maintenance",
+            "album": "-",
+            "artist": "PLEASE UPDATE YOUR APPS",
             "tags": [
-                "straykids"
+                "straykids",
+                "PLEASE UPDATE YOUR APPS"
             ],
             "image": "https://static.uc.ac.id/library/2019/01/under.jpg",
             "popularity": 4000000,
@@ -1736,8 +1737,7 @@
                 "Gotta drink every drop"
             ],
             "artist": "KPop Demon Hunters (Saja Boys)",
-            "tags": [
-            ],
+            "tags": [],
             "trending": 2
         },
         {
@@ -1822,8 +1822,7 @@
                 "You're down on your knees, I'ma be your idol"
             ],
             "artist": "KPop Demon Hunters (Saja Boys)",
-            "tags": [
-            ],
+            "tags": [],
             "trending": 3
         },
         {
@@ -1908,8 +1907,7 @@
                 "Take it down"
             ],
             "artist": "KPop Demon Hunters (Huntr/x)",
-            "tags": [
-            ]
+            "tags": []
         },
         {
             "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
@@ -2004,8 +2002,7 @@
                 "Huntrix, don't miss, how it's done-done-done"
             ],
             "artist": "KPop Demon Hunters (Huntr/x)",
-            "tags": [
-            ]
+            "tags": []
         },
         {
             "image": "https://upload.wikimedia.org/wikipedia/id/f/f2/TXT_-_The_Name_Chapter_Temptation.png",
@@ -40494,17 +40491,7 @@
         6,
         7
     ],
-    "hide_adds_by_version_straykids": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7,
-        8,
-        9
-    ],
+    "hide_adds_by_version_straykids": [],
     "hide_adds_by_version_illit": [],
     "hide_adds_by_version_hearts2hearts": [],
     "hide_adds_by_version_cortis": [],
@@ -40784,7 +40771,7 @@
             "image": "https://play-lh.googleusercontent.com/4LYrMLn3_QlSCJoxdQ7QUefsAG4qicO_810yI3hrLXlqIcv4_JbuXT6CUxLt45hplYumpT98w4AMCi_J991u=w480-h960-rw"
         },
         {
-            "title": "STRAY KIDS UPDATE",
+            "title": "SKZ UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.stray.kids.connect",
             "tags": [
                 "skz"
