@@ -40472,7 +40472,7 @@
         6,
         7
     ],
-    "hide_adds_by_version_straykids": [],
+    "hide_adds_by_version_straykids": [1,2,3,4,5,6,7,8,9],
     "hide_adds_by_version_illit": [],
     "hide_adds_by_version_hearts2hearts": [],
     "hide_adds_by_version_cortis": [],
