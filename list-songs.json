@@ -1,19 +1,6 @@
 {
     "song_list": [
-        {
-            "title": "STRAY KIDS UPDATE",
-            "release_date": "2030-05-17",
-            "album": "-",
-            "artist": "PLEASE UPDATE YOUR APPS",
-            "tags": [
-                "straykids",
-                "PLEASE UPDATE YOUR APPS"
-            ],
-            "image": "https://play-lh.googleusercontent.com/V1f7Tq79GP8ZVIxix5tnUfOfX3_MJpvuHOznOKLaYsEBCsuKlNyKvQQ87MSWekxrJOBpb0ecNhjrT8bE8DDE=w480-h960-rw",
-            "popularity": 4000000,
-            "urlMp3": "-",
-            "youtube_id": "-"
-        },
+       
         {
             "title": "Overflow",
             "release_date": "2026-06-22",
@@ -40542,18 +40529,11 @@
     "hide_adds_by_version_aespa": [],
     "hide_adds_by_version_ive": [],
     "hide_adds_by_version_seventeen": [
-        1,
-        2
+       
     ],
     "hide_adds_by_version_newjeans": [],
     "hide_adds_by_version_enhypen": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
+      
     ],
     "hide_adds_by_version_straykids": [],
     "hide_adds_by_version_illit": [],
