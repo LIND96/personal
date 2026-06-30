@@ -1,6 +1,6 @@
 {
     "song_list": [
-         {
+        {
             "title": "Please Update Your Apps",
             "release_date": "2026-06-29",
             "album": "-",
@@ -9,6 +9,19 @@
                 "skz"
             ],
             "image": "https://play-lh.googleusercontent.com/V1f7Tq79GP8ZVIxix5tnUfOfX3_MJpvuHOznOKLaYsEBCsuKlNyKvQQ87MSWekxrJOBpb0ecNhjrT8bE8DDE=w480-h960-rw",
+            "popularity": 90000,
+            "urlMp3": "-",
+            "youtube_id": "n2bzA"
+        },
+        {
+            "title": "Please Update Your Apps",
+            "release_date": "2026-06-29",
+            "album": "-",
+            "artist": "This app is outdated.",
+            "tags": [
+                "eyekons"
+            ],
+            "image": "https://play-lh.googleusercontent.com/YeyalugcfvdL4Zs4t9kq1Rb5gpjFGiJyng4AgIfCMo4ipKd5uV4CUmhShtS55_fexWLbDakCZclLrasyv51Ylw=w480-h960-rw",
             "popularity": 90000,
             "urlMp3": "-",
             "youtube_id": "n2bzA"
@@ -107,7 +120,8 @@
             "album": "-",
             "artist": "Hearts2Hearts",
             "tags": [
-                "hearts2hearts"
+                "hearts2hearts",
+                "trend"
             ],
             "image": "https://i.ytimg.com/vi/1VqxWNwgf5Q/maxresdefault.jpg",
             "popularity": 90000,
@@ -194,7 +208,8 @@
             "album": "-",
             "artist": "Stray Kids",
             "tags": [
-                "straykids"
+                "straykids",
+                "trend"
             ],
             "image": "https://i.ytimg.com/vi/Q7IFjVUUb_E/maxresdefault.jpg",
             "popularity": 90000,
@@ -1667,7 +1682,8 @@
             ],
             "artist": "KPop Demon Hunters (Huntr/x)",
             "tags": [
-                "Best Song Written for Visual Media"
+                "Best Song Written for Visual Media",
+                "trend"
             ],
             "trending": 1
         },
@@ -1749,7 +1765,9 @@
                 "Gotta drink every drop"
             ],
             "artist": "KPop Demon Hunters (Saja Boys)",
-            "tags": [],
+            "tags": [
+                "trend"
+            ],
             "trending": 2
         },
         {
@@ -1919,7 +1937,9 @@
                 "Take it down"
             ],
             "artist": "KPop Demon Hunters (Huntr/x)",
-            "tags": []
+            "tags": [
+                "trend"
+            ]
         },
         {
             "image": "https://i1.sndcdn.com/artworks-SAczGm57yceTdbVL-HyzCdw-t500x500.png",
@@ -34090,8 +34110,7 @@
             "youtube_id": "bYg6aMDQ_TA",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34107,8 +34126,7 @@
             "youtube_id": "SJds7QC4wLM",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34183,8 +34201,7 @@
             "youtube_id": "uav-2BxMv9U",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34328,8 +34345,7 @@
             "youtube_id": "R2-yomhYAj4",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34345,8 +34361,7 @@
             "youtube_id": "hKo59kh-WBA",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34362,8 +34377,7 @@
             "youtube_id": "H-R87It_dKw",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34379,8 +34393,7 @@
             "youtube_id": "21ipP_aiYME",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34396,8 +34409,7 @@
             "youtube_id": "CjnB56tSCQI",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34486,8 +34498,7 @@
             "youtube_id": "-bC4iak3kxg",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34579,8 +34590,7 @@
             "youtube_id": "MGcPpYhuq-8",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34596,8 +34606,7 @@
             "youtube_id": "4H7ZJQPPThY",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34613,8 +34622,7 @@
             "youtube_id": "l9CZykYZkOQ",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34793,8 +34801,7 @@
             "youtube_id": "5q9EjSUovc4",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -34914,8 +34921,7 @@
             "youtube_id": "7F1ET2XHQfk",
             "artist": "KATSEYE",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ]
         },
         {
@@ -39349,7 +39355,8 @@
             "album": "REVIVE+",
             "artist": "IVE",
             "tags": [
-                "ive"
+                "ive",
+                "trend"
             ],
             "urlMp3": "https://wekaryatech.github.io/song/ive-BANG.mp3",
             "image": "https://i.ytimg.com/vi/9qkpcLK422o/maxresdefault.jpg",
@@ -40109,7 +40116,8 @@
             "album": "-",
             "artist": "BABYMONSTER",
             "tags": [
-                "babymonster"
+                "babymonster",
+                "trend"
             ],
             "urlMp3": "https://wekaryatech.github.io/song/babymonster-sugarhoney.mp3",
             "image": "https://i.ytimg.com/vi/naoGk-Zjc1s/maxresdefault.jpg",
@@ -40390,7 +40398,8 @@
             "tags": [
                 "lesserafim",
                 "illit",
-                "katseye"
+                "katseye",
+                "trend"
             ],
             "urlMp3": "https://wekaryatech.github.io/song/group-ICONIC.mp3",
             "image": "https://i.ytimg.com/vi/27C4pfRsf9g/maxresdefault.jpg",
@@ -40742,8 +40751,7 @@
             "title": "KATSEYE - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.katseye.update",
             "tags": [
-                "katseye",
-                "eyekons"
+                "katseye"
             ],
             "image": "https://play-lh.googleusercontent.com/YeyalugcfvdL4Zs4t9kq1Rb5gpjFGiJyng4AgIfCMo4ipKd5uV4CUmhShtS55_fexWLbDakCZclLrasyv51Ylw=w480-h960-rw"
         },
