@@ -430,6 +430,19 @@
             "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
             "youtube_id": "P7vBoGWoReg"
         },
+         {
+            "title": "Hollow",
+            "release_date": "2025-08-22",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/F4qFzuCA9Po/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/stry-hollow.mp3",
+            "youtube_id": "F4qFzuCA9Po"
+        },
         {
             "title": "Hall of Fame",
             "release_date": "2024-08-22",
