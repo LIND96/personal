@@ -1,32 +1,6 @@
 {
     "song_list": [
         {
-            "title": "Please Update Your Apps",
-            "release_date": "2026-06-29",
-            "album": "-",
-            "artist": "This app is outdated.",
-            "tags": [
-                "skz"
-            ],
-            "image": "https://play-lh.googleusercontent.com/V1f7Tq79GP8ZVIxix5tnUfOfX3_MJpvuHOznOKLaYsEBCsuKlNyKvQQ87MSWekxrJOBpb0ecNhjrT8bE8DDE=w480-h960-rw",
-            "popularity": 90000,
-            "urlMp3": "-",
-            "youtube_id": "n2bzA"
-        },
-        {
-            "title": "Please Update Your Apps",
-            "release_date": "2026-06-29",
-            "album": "-",
-            "artist": "This app is outdated.",
-            "tags": [
-                "eyekons"
-            ],
-            "image": "https://play-lh.googleusercontent.com/YeyalugcfvdL4Zs4t9kq1Rb5gpjFGiJyng4AgIfCMo4ipKd5uV4CUmhShtS55_fexWLbDakCZclLrasyv51Ylw=w480-h960-rw",
-            "popularity": 90000,
-            "urlMp3": "-",
-            "youtube_id": "n2bzA"
-        },
-        {
             "title": "We'll Be Fine",
             "release_date": "2026-06-29",
             "album": "-",
@@ -109,6 +83,32 @@
                 "We'll be fine, we'll be fine (Woo)",
                 ""
             ]
+        },
+        {
+            "title": "The First Snow",
+            "release_date": "2020-06-22",
+            "album": "-",
+            "artist": "EXO",
+            "tags": [
+                "exo"
+            ],
+            "image": "https://i.ytimg.com/vi/h0b4nw7NDhA/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/EXO-SNOW.mp3",
+            "youtube_id": "h0b4nw7NDhA"
+        },
+        {
+            "title": "I Like It",
+            "release_date": "2024-07-19",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/Oz7v7TP_-3k/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-ilikeit.mp3",
+            "youtube_id": "Oz7v7TP_-3k"
         },
         {
             "title": "Overflow",
@@ -430,7 +430,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/strycreem.mp3",
             "youtube_id": "P7vBoGWoReg"
         },
-         {
+        {
             "title": "Hollow",
             "release_date": "2025-08-22",
             "album": "-",
@@ -40739,24 +40739,6 @@
     ],
     "dataOtherApps": [
         {
-            "title": "EXO STAN",
-            "url": "https://play.google.com/store/apps/details?id=com.eilish.uk",
-            "tags": [
-                "exo",
-                "new"
-            ],
-            "image": "https://play-lh.googleusercontent.com/bDFUpu6Gs1vE0fUYrDZ7CnivApwmUq0B8GV9gv7F_OR3RmdtjGQgPK7vl4rB-t5t6b7czAq9NwRHYAxrTZE4nA=w480-h960-rw"
-        },
-        {
-            "title": "IVE - UPDATE",
-            "url": "https://play.google.com/store/apps/details?id=com.ive.uk",
-            "tags": [
-                "ive",
-                "new"
-            ],
-            "image": "https://play-lh.googleusercontent.com/D-AJ26MJP2EpsxkKvgVNF36qfjk-TIbyzoDcoI-tofsedUroDT_xqAtSp3mg8OxerXgdhxiUJZIq5dqi3hmtQg=w480-h960-rw"
-        },
-        {
             "title": "AESPA UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.aespa.fans",
             "tags": [
@@ -40816,6 +40798,14 @@
             "image": "https://play-lh.googleusercontent.com/EHe3wrqkGCVChRzI7nlFSWg0TJygCEh12Gzl6e6SAJDVzCDmqAJJgG2zB7Gy9RaxMOTza-XO2QK_NBO3D69Arw=w240-h480"
         },
         {
+            "title": "EXO STAN",
+            "url": "https://play.google.com/store/apps/details?id=com.eilish.uk",
+            "tags": [
+                "exo"
+            ],
+            "image": "https://play-lh.googleusercontent.com/bDFUpu6Gs1vE0fUYrDZ7CnivApwmUq0B8GV9gv7F_OR3RmdtjGQgPK7vl4rB-t5t6b7czAq9NwRHYAxrTZE4nA=w480-h960-rw"
+        },
+        {
             "title": "Hearts2Hearts - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.hearts2hearts.uk",
             "tags": [
@@ -40830,6 +40820,14 @@
                 "illit"
             ],
             "image": "https://play-lh.googleusercontent.com/zt1ATdMoFMwc4rEarX-7XLIBc1pIdWokrX9talv5ArUNsYaqaoAe7uShyk9rRZJwYooxdvHljkHV-3rcmdqB6A=w480-h960-rw"
+        },
+        {
+            "title": "IVE - UPDATE",
+            "url": "https://play.google.com/store/apps/details?id=com.ive.uk",
+            "tags": [
+                "ive"
+            ],
+            "image": "https://play-lh.googleusercontent.com/D-AJ26MJP2EpsxkKvgVNF36qfjk-TIbyzoDcoI-tofsedUroDT_xqAtSp3mg8OxerXgdhxiUJZIq5dqi3hmtQg=w480-h960-rw"
         },
         {
             "title": "KATSEYE - UPDATE",
