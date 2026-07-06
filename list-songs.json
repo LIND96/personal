@@ -40095,6 +40095,20 @@
             "latin_lyric": null
         },
         {
+            "title": "Bubee",
+            "release_date": "2026-03-20",
+            "album": "-",
+            "artist": "ILLIT",
+            "tags": [
+                "illit"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/illit-Bubee.mp3",
+            "image": "https://i.ytimg.com/vi/OZ44P4JU87E/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "OZ44P4JU87E",
+            "latin_lyric": null
+        },
+        {
             "title": "Just a Little",
             "release_date": "2026-06-15",
             "album": "-",
