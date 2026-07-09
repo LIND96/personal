@@ -98,6 +98,19 @@
             "youtube_id": "h0b4nw7NDhA"
         },
         {
+            "title": "Do the Dance",
+            "release_date": "2025-06-22",
+            "album": "-",
+            "artist": "ILLIT",
+            "tags": [
+                "illit"
+            ],
+            "image": "https://i.ytimg.com/vi/negtrQu5mTA/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/illit-dothedance.mp3",
+            "youtube_id": "negtrQu5mTA"
+        },
+        {
             "title": "I Like It",
             "release_date": "2024-07-19",
             "album": "-",
