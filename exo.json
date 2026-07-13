@@ -1,6 +1,19 @@
 {
     "song_list": [
         {
+            "title": "The First Snow",
+            "release_date": "2020-06-22",
+            "album": "-",
+            "artist": "EXO",
+            "tags": [
+                "exo"
+            ],
+            "image": "https://i.ytimg.com/vi/h0b4nw7NDhA/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/EXO-SNOW.mp3",
+            "youtube_id": "h0b4nw7NDhA"
+        },
+        {
             "title": "Crown",
             "release_date": "2026-04-20",
             "album": "REVERXE",
