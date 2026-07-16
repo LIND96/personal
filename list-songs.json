@@ -455,6 +455,20 @@
             "youtube_id": "HeqsjDF7Lw0"
         },
         {
+            "title": "SPAGHETTI",
+            "release_date": "2025-11-22",
+            "album": "-",
+            "artist": "Le Sserafim",
+            "tags": [
+                "lesserafim",
+                "request"
+            ],
+            "image": "https://i.ytimg.com/vi/TvVtYaqCni8/maxresdefault.jpg",
+            "popularity": 1500000,
+            "urlMp3": "https://wekaryatech.github.io/song/lesserafim-SPAGHETTI.mp3",
+            "youtube_id": "TvVtYaqCni8"
+        },
+        {
             "title": "Hot",
             "release_date": "2025-08-22",
             "album": "-",
