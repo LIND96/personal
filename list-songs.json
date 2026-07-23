@@ -85,6 +85,20 @@
             ]
         },
         {
+            "title": "KISS N TELL",
+            "release_date": "2026-07-24",
+            "album": "-",
+            "artist": "AESPA",
+            "tags": [
+                "aespa",
+                "trend"
+            ],
+            "image": "https://i.ytimg.com/vi/inxzQt78lOk/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/aespa-KissNTell.mp3",
+            "youtube_id": "inxzQt78lOk"
+        },
+        {
             "title": "Cherish (My Love)",
             "release_date": "2025-06-22",
             "album": "-",
@@ -40762,41 +40776,7 @@
         }
     ],
     "dataListMVArmy": [
-        {
-            "title": "BTS (방탄소년단) 'Hooligan' Official MV",
-            "release_date": "2026-04-08",
-            "youtube_id": "diBO0gMuTXo",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-hooligan.mp4",
-            "image": "https://i.ytimg.com/vi/diBO0gMuTXo/maxresdefault.jpg"
-        },
-        {
-            "youtube_id": "_gyultVTesk",
-            "title": "BTS (방탄소년단) '2.0' Official MV",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-20.mp4",
-            "image": "https://i.ytimg.com/vi/_gyultVTesk/maxresdefault.jpg",
-            "release_date": "2026-03-20"
-        },
-        {
-            "youtube_id": "b4iVv91Z6lY",
-            "title": " BTS (방탄소년단) ‘SWIM’ Official MV",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-swim.mp4",
-            "image": "https://i.ytimg.com/vi/b4iVv91Z6lY/maxresdefault.jpg",
-            "release_date": "2026-03-20"
-        },
-        {
-            "youtube_id": "YkUfnufGOB0",
-            "title": " BTS Perform 'SWIM' Live in the Studio | BTS: THE RETURN | Netflix",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-swimnetflix.mp4",
-            "image": "https://i.ytimg.com/vi/YkUfnufGOB0/maxresdefault.jpg",
-            "release_date": "2026-03-20"
-        },
-        {
-            "youtube_id": "k7ltT9AgfUI",
-            "title": "BTS The Comeback LIVE | ARIRANG | 'Hooligan' Full Performance | Netflix",
-            "urlMp4": "https://wekaryatech.github.io/song/bts-hooligannetflix.mp4",
-            "image": "https://i.ytimg.com/vi/k7ltT9AgfUI/maxresdefault.jpg",
-            "release_date": "2026-03-20"
-        }
+        
     ],
     "dataListMVBabymonster": [
         {
