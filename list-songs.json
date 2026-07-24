@@ -85,6 +85,20 @@
             ]
         },
         {
+            "title": "Animal",
+            "release_date": "2026-07-24",
+            "album": "-",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye",
+                "trend"
+            ],
+            "image": "https://i.ytimg.com/vi/m7k9UMcHbr0/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-animal.mp3",
+            "youtube_id": "m7k9UMcHbr0"
+        },
+        {
             "title": "KISS N TELL",
             "release_date": "2026-07-24",
             "album": "-",
