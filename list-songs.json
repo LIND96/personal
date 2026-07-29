@@ -1,10 +1,23 @@
 {
     "song_list": [
         {
+            "title": "ILLIT",
+            "release_date": "2025-07-26",
+            "album": "-",
+            "artist": "jellyous",
+            "tags": [
+                "illit"
+            ],
+            "image": "https://i.ytimg.com/vi/GkG60kISnfc/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/illit-jellyous.mp3",
+            "youtube_id": "GkG60kISnfc"
+        },
+        {
             "title": "I Got Your Back",
             "release_date": "2026-07-26",
             "album": "-",
-            "artist": "ILLIT Feat JISOO, MOMOKA"  ,
+            "artist": "ILLIT Feat JISOO, MOMOKA",
             "tags": [
                 "illit",
                 "trend"
@@ -308,19 +321,7 @@
             "urlMp3": "https://wekaryatech.github.io/song/straykids-backdoor.mp3",
             "youtube_id": "X-uJtV8ScYk"
         },
-        {
-            "title": "The First Snow",
-            "release_date": "2020-06-22",
-            "album": "-",
-            "artist": "EXO",
-            "tags": [
-                "exo"
-            ],
-            "image": "https://i.ytimg.com/vi/h0b4nw7NDhA/maxresdefault.jpg",
-            "popularity": 90000,
-            "urlMp3": "https://wekaryatech.github.io/song/EXO-SNOW.mp3",
-            "youtube_id": "h0b4nw7NDhA"
-        },
+       
         {
             "title": "Do the Dance",
             "release_date": "2025-06-22",
