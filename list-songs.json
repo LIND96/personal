@@ -41124,5 +41124,5 @@
     "promotion_count_debounce": 3,
     "promotion_count_appodeal": 4,
     "promotion_count_enhypen": 3,
-    "isUseIntersitialReward": false
+    "isUseIntersitialReward": true
 }
