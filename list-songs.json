@@ -13,7 +13,20 @@
             "urlMp3": "https://wekaryatech.github.io/song/illit-jellyous.mp3",
             "youtube_id": "GkG60kISnfc"
         },
-        
+        {
+            "title": "I Got Your Back",
+            "release_date": "2026-07-26",
+            "album": "-",
+            "artist": "ILLIT Feat JISOO, MOMOKA",
+            "tags": [
+                "illit",
+                "trend"
+            ],
+            "image": "https://i.ytimg.com/vi/_Pk6xfju3l0/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/illit-igotyourback.mp3",
+            "youtube_id": "_Pk6xfju3l0"
+        },
         {
             "title": "We'll Be Fine",
             "release_date": "2026-06-29",
@@ -41104,7 +41117,7 @@
         }
     ],
     "any_new_apps": "true",
-    "promotion_count": 5,
+    "promotion_count": 4,
     "reward_count_debounce": 2,
     "reward_exo_hours_debounce": 3,
     "reward_ive_hours_debounce": 3,
