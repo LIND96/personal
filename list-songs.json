@@ -41134,7 +41134,7 @@
     "reward_hearts2hearts_hours_debounce": 3,
     "reward_newjeans_hours_debounce": 3,
     "reward_enhypen_hours_debounce": 3,
-    "promotion_count_debounce": 4,
+    "promotion_count_debounce": 3,
     "promotion_count_appodeal": 4,
     "promotion_count_enhypen": 4,
     "isUseIntersitialReward": true
