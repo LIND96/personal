@@ -1,6 +1,19 @@
 {
     "song_list": [
         {
+            "title": "MOTION (feat. Juicy J)",
+            "release_date": "2025-08-31",
+            "album": "-",
+            "artist": "CORTIS",
+            "tags": [
+                "cortis"
+            ],
+            "image": "https://i.ytimg.com/vi/h7ITAdTxdxM/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/cortis-MOTION.mp3",
+            "youtube_id": "h7ITAdTxdxM"
+        },
+        {
             "title": "jellyous",
             "release_date": "2025-07-26",
             "album": "-",
@@ -321,7 +334,6 @@
             "urlMp3": "https://wekaryatech.github.io/song/straykids-backdoor.mp3",
             "youtube_id": "X-uJtV8ScYk"
         },
-       
         {
             "title": "Do the Dance",
             "release_date": "2025-06-22",
