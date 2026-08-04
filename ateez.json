@@ -420,7 +420,7 @@
     "any_new_apps": "true",
     "promotion_count": 4,
     "reward_count_debounce": 2,
-    "reward_exo_hours_debounce": 3,
+    "reward_hours_debounce": 3,
     "promotion_count_debounce": 3,
     "isUseIntersitialReward": true
 }
