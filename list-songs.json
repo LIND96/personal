@@ -352,6 +352,20 @@
             "latin_lyric": [],
             "youtube_id": "8RQ19JTVsR4"
         },
+         {
+            "title": "Lose My Breath (Feat. Charlie Puth)",
+            "release_date": "2024-08-07",
+            "album": "-",
+            "artist": "Stray Kids",
+            "tags": [
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/SQ1yPMTIwCU/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-LoseMy.mp3",
+            "latin_lyric": [],
+            "youtube_id": "SQ1yPMTIwCU"
+        },
         {
             "title": "Way Out",
             "release_date": "2026-08-07",
