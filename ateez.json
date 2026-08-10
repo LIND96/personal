@@ -1,5 +1,19 @@
 {
     "song_list": [
+         {
+            "title": "Days",
+            "release_date": "2024-07-19",
+            "album": "-",
+            "artist": "ATEEZ",
+            "tags": [
+                "ateez"
+            ],
+            "image": "https://i.ytimg.com/vi/7roOwD1pNgk/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/ateez-Days.mp3",
+            "latin_lyric": [],
+            "youtube_id": "7roOwD1pNgk"
+        },
         {
             "title": "Ash",
             "release_date": "2025-07-19",
