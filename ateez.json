@@ -1,6 +1,34 @@
 {
     "song_list": [
-         {
+        {
+            "title": "Ice On My Teeth",
+            "release_date": "2025-07-19",
+            "album": "-",
+            "artist": "ATEEZ",
+            "tags": [
+                "ateez"
+            ],
+            "image": "https://i.ytimg.com/vi/5OflOlcHLb8/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/ateez-Ice.mp3",
+            "latin_lyric": [],
+            "youtube_id": "5OflOlcHLb8"
+        },
+        {
+            "title": "BOUNCY (K-HOT CHILLI PEPPERS)",
+            "release_date": "2023-07-19",
+            "album": "-",
+            "artist": "ATEEZ",
+            "tags": [
+                "ateez"
+            ],
+            "image": "https://i.ytimg.com/vi/U0G5OA6ZH5w/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/ateez-BOUNCY.mp3",
+            "latin_lyric": [],
+            "youtube_id": "U0G5OA6ZH5w"
+        },
+        {
             "title": "Days",
             "release_date": "2024-07-19",
             "album": "-",
