@@ -1602,6 +1602,15 @@
     ],
     "hide_adds_by_version": [],
     "dataOtherApps": [
+         {
+            "title": "NMIXX CONNECT",
+            "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk",
+            "tags": [
+                "nmixx",
+                "new"
+            ],
+            "image": "https://play-lh.googleusercontent.com/Mlvsr_I8ZtcqAqxpWnlYLvwzoAxMxxmtLqTMOMT5H9sY63g8SNhBRoP8MtF7bYvBcOmbHZAdj6DIwvHFr6Dg=s160-rw"
+        },
         {
             "title": "AESPA UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.aespa.fans",
@@ -1662,14 +1671,6 @@
             "image": "https://play-lh.googleusercontent.com/EHe3wrqkGCVChRzI7nlFSWg0TJygCEh12Gzl6e6SAJDVzCDmqAJJgG2zB7Gy9RaxMOTza-XO2QK_NBO3D69Arw=w240-h480"
         },
         {
-            "title": "EXO STAN",
-            "url": "https://play.google.com/store/apps/details?id=com.eilish.uk",
-            "tags": [
-                "exo"
-            ],
-            "image": "https://play-lh.googleusercontent.com/bDFUpu6Gs1vE0fUYrDZ7CnivApwmUq0B8GV9gv7F_OR3RmdtjGQgPK7vl4rB-t5t6b7czAq9NwRHYAxrTZE4nA=w480-h960-rw"
-        },
-        {
             "title": "Hearts2Hearts - UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.hearts2hearts.uk",
             "tags": [
@@ -1717,14 +1718,7 @@
             ],
             "image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw"
         },
-        {
-            "title": "NMIXX CONNECT",
-            "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk",
-            "tags": [
-                "nmixx"
-            ],
-            "image": "https://play-lh.googleusercontent.com/Mlvsr_I8ZtcqAqxpWnlYLvwzoAxMxxmtLqTMOMT5H9sY63g8SNhBRoP8MtF7bYvBcOmbHZAdj6DIwvHFr6Dg=s160-rw"
-        },
+       
         {
             "title": "STRAYKIDS UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.stray.kids.connect",
