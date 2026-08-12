@@ -12,7 +12,71 @@
             "image": "https://i.ytimg.com/vi/chl0R8C4NJ8/maxresdefault.jpg",
             "popularity": 90000,
             "youtube_id": "chl0R8C4NJ8",
-            "latin_lyric": []
+            "latin_lyric": [
+                "[Romanized:]",
+                "",
+                "Wow, so cool",
+                "I'ma break it down, break it down, break it down, break it down",
+                "Break it down, break it down, break it down, down, down",
+                "Break it down, break it down, break it down, break it down",
+                "Break it down, break it down, break it, break it down, down",
+                "",
+                "How you feeling? Bouncy, bouncy",
+                "Sono pawā up high",
+                "Kirakira tobimawaru achikochi",
+                "Machigatte okkē really, really",
+                "Fuzake atte chikadzuku",
+                "Kidzui tenakute mo",
+                "Fureta shunkan denryū mitai",
+                "My burning heart and it's got a feeling like",
+                "",
+                "(It's a paradise)",
+                "Chīsai uchū hirogatte ku",
+                "(Cosmic in your eyes)",
+                "Are you ready? Ayy, wanna fly away",
+                "",
+                "(Break it down, break it down, break it down, break it down) Come, come as you are",
+                "(Break it down, break it down, break it down, down, down) tobide-sō hajikeru yō ni",
+                "(Break it down, break it down, break it down, break it down) -boshi no shita de kimi to ne",
+                "(Break it down, break it down, break it, break it down, down) kanjiru iconic heart",
+                "(Break it down, break it down, break it down, break it down) Iconic heart",
+                "(Break it down, break it down, break it down, down, down) atsuku kanjite",
+                "(Break it down, break it down, break it down, break it down) kitto wakaru",
+                "(Break it down, break it down, break it, break it down, down) How I feel, we are iconic heart",
+                "",
+                "I keep it cooler, taguru controller",
+                "And we go high, gotta measure it with a ruler",
+                "Bright, bright, everything shine, hype, hype (I'ma get mine)",
+                "Ā shite kōshitari yosoku dekinai",
+                "",
+                "(It's a paradise)",
+                "Kurai yoru demo mieru",
+                "(Cosmic in your eyes)",
+                "Kodō boom boom, ayy, wanna fly away",
+                "",
+                "(Break it down, break it down, break it down, break it down) Come, come as you are",
+                "(Break it down, break it down, break it down, down, down) tobide-sō hajikeru yō ni",
+                "(Break it down, break it down, break it down, break it down) -boshi no shita de kimi to ne",
+                "(Break it down, break it down, break it, break it down, down) kanjiru iconic heart",
+                "(Break it down, break it down, break it down, break it down) Iconic heart",
+                "(Break it down, break it down, break it down, down, down) atsuku kanjite",
+                "(Break it down, break it down, break it down, break it down) kitto wakaru",
+                "(Break it down, break it down, break it, break it down, down) How I feel, we are iconic heart",
+                "",
+                "Kanjite mite ima yori motto",
+                "Dare yori mo soba de",
+                "I wanna dive in, hashagu hikari",
+                "I want you here (Tonight)",
+                "",
+                "(Break it down, break it down, break it down, break it down) Come, come as you are",
+                "(Break it down, break it down, break it down, down, down) tobidasou (Yeah, yeah) hajikeru yō ni (hajikeyou)",
+                "(Break it down, break it down, break it down, break it down) -boshi no shita de kimi to ne (nē)",
+                "(Break it down, break it down, break it, break it down, down) kanjiru iconic heart",
+                "(Break it down, break it down, break it down, break it down) Iconic heart",
+                "(Break it down, break it down, break it down, down, down) atsuku kanjite (atsuku ah)",
+                "(Break it down, break it down, break it down, break it down) kitto wakaru",
+                "(Break it down, break it down, break it, break it down, down) How I feel? We are"
+            ]
         },
         {
             "title": "RUN IT",
@@ -366,7 +430,7 @@
             "latin_lyric": [],
             "youtube_id": "8RQ19JTVsR4"
         },
-         {
+        {
             "title": "Lose My Breath (Feat. Charlie Puth)",
             "release_date": "2024-08-07",
             "album": "-",
@@ -957,7 +1021,7 @@
         {
             "title": "Lemon Tang",
             "release_date": "2026-06-22",
-            "album": "-",
+            "album": "Lemon Tang",
             "artist": "Hearts2Hearts",
             "tags": [
                 "hearts2hearts",
@@ -37277,7 +37341,7 @@
         {
             "title": "RUDE!",
             "release_date": "2026-02-20",
-            "album": "-",
+            "album": "Lemon Tang",
             "artist": "Hearts2Hearts",
             "tags": [
                 "hearts2hearts"
@@ -41415,16 +41479,16 @@
             "url": "https://play.google.com/store/apps/details?id=com.eilish.uk",
             "tags": [
                 "ateez",
-                 "new"
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/wo90oXQ8ApNlrJPFXu6W39G-lSdzZhGb98B1FMGSA-rgllqbQj5-g8OUzrqTHwnpCzbZPJxkmtlN4sT05a_Y8g=w480-h960-rw"
         },
-              {
+        {
             "title": "NMIXX CONNECT",
             "url": "https://play.google.com/store/apps/details?id=com.seventeen.uk",
             "tags": [
                 "nmixx",
-                 "new"
+                "new"
             ],
             "image": "https://play-lh.googleusercontent.com/Mlvsr_I8ZtcqAqxpWnlYLvwzoAxMxxmtLqTMOMT5H9sY63g8SNhBRoP8MtF7bYvBcOmbHZAdj6DIwvHFr6Dg=s160-rw"
         },
@@ -41535,7 +41599,6 @@
             ],
             "image": "https://play-lh.googleusercontent.com/aiuLqwywFroHJKykCNGaCds2XtOn0_mi3Au3I2SzcaPFrcLcWujsFD4ygQru3X5Ba35BC9IrRO7Jlu1UjfxDdw=w480-h960-rw"
         },
- 
         {
             "title": "STRAYKIDS UPDATE",
             "url": "https://play.google.com/store/apps/details?id=com.stray.kids.connect",
