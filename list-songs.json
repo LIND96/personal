@@ -1,6 +1,54 @@
 {
     "song_list": [
         {
+            "image": "https://i.ytimg.com/vi/oMvXwtmYVWc/maxresdefault.jpg",
+            "title": "Bel Air",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-BelAir.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-08-14",
+            "album": "WILD",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "oMvXwtmYVWc",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/DgFemuNxBrk/maxresdefault.jpg",
+            "title": "That Way",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-ThatWay.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-08-14",
+            "album": "WILD",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "DgFemuNxBrk",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
+            "image": "https://i.ytimg.com/vi/kwH2nYwuFdA/maxresdefault.jpg",
+            "title": "Hootie Frutti",
+            "urlMp3": "https://wekaryatech.github.io/song/katseye-Hootie.mp3",
+            "popularity": 3100000,
+            "release_date": "2026-08-14",
+            "album": "WILD",
+            "latin_lyric": null,
+            "korean_lyric": null,
+            "english_lyric": null,
+            "youtube_id": "kwH2nYwuFdA",
+            "artist": "KATSEYE",
+            "tags": [
+                "katseye"
+            ]
+        },
+        {
             "title": "ICONIC HEART",
             "release_date": "2026-08-12",
             "album": "-",
@@ -41361,7 +41409,22 @@
     "hide_adds_by_version_illit": [],
     "hide_adds_by_version_hearts2hearts": [],
     "hide_adds_by_version_cortis": [],
-    "hide_adds_by_version_txt": [1,2,3,4,5,6,7,8,9,10,11,12,13,14],
+    "hide_adds_by_version_txt": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+    ],
     "dataListVoteEventBlink": [],
     "dataListVoteEventArmy": [],
     "dataListVoteEventMonstiez": [],
