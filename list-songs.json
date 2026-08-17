@@ -1,11 +1,24 @@
 {
     "song_list": [
         {
+            "image": "https://i.ytimg.com/vi/TqWNFVAEmwU/maxresdefault.jpg",
+            "title": "Silence",
+            "popularity": 450000,
+            "release_date": "2026-08-17",
+            "album": "-",
+            "urlMp3": "https://wekaryatech.github.io/song/txt-Silence.mp3",
+            "latin_lyric": null,
+            "artist": "TOMORROW X TOGETHER (TXT)",
+            "tags": [
+                "txt"
+            ]
+        },
+        {
             "image": "https://i.ytimg.com/vi/Tg076GY2a-Q/maxresdefault.jpg",
             "title": "Setsuna Hanabi",
             "popularity": 450000,
             "release_date": "2026-08-17",
-            "album": "TEMPTATION",
+            "album": "-",
             "urlMp3": "https://wekaryatech.github.io/song/txt-hanabi.mp3",
             "latin_lyric": null,
             "artist": "TOMORROW X TOGETHER (TXT)",
