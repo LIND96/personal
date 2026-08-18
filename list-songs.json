@@ -37849,6 +37849,48 @@
             "latin_lyric": null
         },
         {
+            "title": "Baby Steps",
+            "release_date": "2026-02-20",
+            "album": "Lemon Tang",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-Baby-Steps.mp3",
+            "image": "https://i.ytimg.com/vi/R9FoZROL4Dc/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "R9FoZROL4Dc",
+            "latin_lyric": null
+        },
+        {
+            "title": "Secret Recipe",
+            "release_date": "2026-02-20",
+            "album": "Lemon Tang",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-SecretRecipe.mp3",
+            "image": "https://i.ytimg.com/vi/Cfq4lgDvYno/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "Cfq4lgDvYno",
+            "latin_lyric": null
+        },
+        {
+            "title": "15-LOVE",
+            "release_date": "2026-02-20",
+            "album": "Lemon Tang",
+            "artist": "Hearts2Hearts",
+            "tags": [
+                "hearts2hearts"
+            ],
+            "urlMp3": "https://wekaryatech.github.io/song/hearts2hearts-15-LOVE.mp3",
+            "image": "https://i.ytimg.com/vi/MDt60jU3O2w/maxresdefault.jpg",
+            "popularity": 90000,
+            "youtube_id": "MDt60jU3O2w",
+            "latin_lyric": null
+        },
+        {
             "title": "SSS (Sending Secret Signals)",
             "release_date": "2026-01-20",
             "album": "-",
