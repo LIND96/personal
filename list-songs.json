@@ -36962,7 +36962,7 @@
             "tags": [
                 "cortis"
             ],
-            "image": "https://i.ytimg.com/vi/kRpaqR5sbf0/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/ufdjbG7z5lQ/maxresdefault.jpg",
             "popularity": 90000,
             "urlMp3": "https://wekaryatech.github.io/song/cortis-tnt.mp3",
             "youtube_id": "kRpaqR5sbf0",
@@ -37005,6 +37005,34 @@
                 "Jwapyo jjikgo baro ppang (What you mean?)",
                 "I'm about to TNT (TNT)"
             ]
+        },
+        {
+            "title": "PACK IT UP",
+            "release_date": "2026-05-04",
+            "album": "GreenGreen",
+            "artist": "CORTIS",
+            "tags": [
+                "cortis"
+            ],
+            "image": "https://i.ytimg.com/vi/Eg4-vCHc7eQ/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/cortis-PACK.mp3",
+            "youtube_id": "Eg4-vCHc7eQ",
+            "latin_lyric": []
+        },
+        {
+            "title": "MONEYMONEYMONEY",
+            "release_date": "2026-05-04",
+            "album": "GreenGreen",
+            "artist": "CORTIS",
+            "tags": [
+                "cortis"
+            ],
+            "image": "https://i.ytimg.com/vi/ufdjbG7z5lQ/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/cortis-MONEYMONEYMONEY.mp3",
+            "youtube_id": "ufdjbG7z5lQ",
+            "latin_lyric": []
         },
         {
             "title": "Acai",
