@@ -1676,16 +1676,31 @@
             ]
         },
         {
-            "title": "Less than a Lover",
-            "release_date": "2026-07-24",
-            "album": "-",
+            "title": "FALLEN ANGEL",
+            "release_date": "2026-08-24",
+            "album": "Fallen Angel",
             "artist": "JENNIE",
             "tags": [
                 "jennie",
                 "blackpink",
                 "trend"
             ],
-            "image": "https://i.ytimg.com/vi/z9ifbheDGFM/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/cOARkf5ZmtI/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/jennie-fallenangel.mp3",
+            "youtube_id": "cOARkf5ZmtI"
+        },
+        {
+            "title": "Less than a Lover",
+            "release_date": "2026-07-24",
+            "album": "Fallen Angel",
+            "artist": "JENNIE",
+            "tags": [
+                "jennie",
+                "blackpink",
+                "trend"
+            ],
+            "image": "https://i.ytimg.com/vi/cOARkf5ZmtI/maxresdefault.jpg",
             "popularity": 90000,
             "urlMp3": "https://wekaryatech.github.io/song/jennie-lessthanlover.mp3",
             "youtube_id": "z9ifbheDGFM",
