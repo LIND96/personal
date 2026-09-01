@@ -1232,6 +1232,21 @@
             "youtube_id": "HCvIZzVdeq8"
         },
         {
+            "title": "Slow It Down",
+            "release_date": "2026-09-01",
+            "album": "-",
+            "artist": "Felix",
+            "tags": [
+                "felix",
+                "straykids"
+            ],
+            "image": "https://i.ytimg.com/vi/YWsczzufh6Q/maxresdefault.jpg",
+            "popularity": 90000,
+            "urlMp3": "https://wekaryatech.github.io/song/straykids-slowitdown.mp3",
+            "latin_lyric": [],
+            "youtube_id": "YWsczzufh6Q"
+        },
+        {
             "title": "I Do",
             "release_date": "2026-08-07",
             "album": "THIS & THAT",
