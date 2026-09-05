@@ -98,7 +98,6 @@
     ]
   },
   "news_list": [
-   
     {
       "id": "blackpink-comeback-single",
       "category": "COMEBACK",
@@ -129,7 +128,6 @@
     "isLyricsEnabled": true,
     "isSongRequestEnabled": true,
     "isOtherAppsEnabled": true,
-    "maxOfflinePlayCount": 10,
     "isNewsEnabled": true,
     "isMembersEnabled": true,
     "adBannerInterval": 7
