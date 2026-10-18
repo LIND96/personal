@@ -4,96 +4,164 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Privacy Policy - SongLyrics App</title>
+  <title>Privacy Policy - DAEBAK FANS APPS</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 860px; margin: 0 auto; padding: 24px 20px 64px; line-height: 1.6; color: #1a1a1a; }
+    h1 { font-size: 1.8rem; }
+    h2 { margin-top: 2rem; font-size: 1.25rem; border-bottom: 1px solid #e5e5e5; padding-bottom: 4px; }
+    table { border-collapse: collapse; width: 100%; margin: 12px 0; }
+    th, td { border: 1px solid #ddd; padding: 8px 10px; text-align: left; vertical-align: top; font-size: 0.95rem; }
+    th { background: #f5f5f5; }
+    code { background: #f4f4f4; padding: 1px 5px; border-radius: 4px; font-size: 0.9em; }
+    .updated { color: #666; }
+  </style>
 </head>
 
 <body>
   <h1>Privacy Policy</h1>
 
-  <p>Last updated: April 29, 2025</p>
+  <p class="updated">Last updated: October 18, 2026</p>
 
-  <p>This Privacy Policy describes how SongLyrics App ("we", "us", or "our") collects, uses, and discloses your
-    information when you use our mobile application (the "App"). By using the App, you agree to the collection and use
-    of information in accordance with this policy.</p>
+  <p>This Privacy Policy describes how the DAEBAK fan app and other fandom music apps by the same developer
+    ("we", "us", or "our") handle information when you use our Android mobile application (the "App").
+    All apps in this family share the same codebase and the same data practices described here
+    (music streaming, offline downloads, photo gallery, quiz arcade, fake video call, and AdMob ads).
+    By using the App, you agree to the practices described in this policy.</p>
 
   <h2>1. Information We Collect</h2>
-  <h3>a. Personal Data</h3>
-  <p>We do not collect personally identifiable information unless you voluntarily provide it, such as when contacting us
-    via email or providing feedback.</p>
 
-  <h3>b. Usage Data</h3>
-  <p>When you use the App, we may automatically collect certain information including:</p>
+  <h3>a. Information You Voluntarily Provide</h3>
+  <p>We do not require an account and we do not collect your name, email, or precise location automatically.
+    You only share personal information if you choose to use these optional features:</p>
   <ul>
-    <li>Your device’s Internet Protocol (IP) address</li>
-    <li>Device type and OS version</li>
-    <li>Time and date of usage</li>
-    <li>Pages or screens visited</li>
-    <li>Crash logs and diagnostics</li>
+    <li><strong>Song request form:</strong> song title and link you type. Sent to our Google Apps Script endpoint
+      and appended to a Google Spreadsheet (<code>{ app, title, link, date }</code>).</li>
+    <li><strong>Global high-score submission</strong> (score &gt; 900 only): display name, country (pre-filled, editable),
+      optional phone number, score, date, and a random per-install device ID stored in on-device storage.
+      Sent to our Google Apps Script scoreboard endpoint and appended to a Google Spreadsheet
+      (<code>{ app, name, country, phone, score, date, deviceId }</code>).</li>
+    <li><strong>Contacting us by email:</strong> your email address and message content.</li>
   </ul>
 
-  <h3>c. Location Data</h3>
-  <p>We do not collect precise location data. General location data may be used by third-party services such as
-    analytics providers to offer regional content or usage insights.</p>
-
-  <h3>d. Cookies and Tracking Technologies</h3>
-  <p>We do not use cookies directly. However, third-party tools such as analytics services may use cookies or similar
-    tracking technologies to collect data.</p>
-
-  <h2>2. Use of Your Information</h2>
-  <p>The information we collect may be used to:</p>
+  <h3>b. Automatically Collected Data (On-Device Only)</h3>
+  <p>The following counters and preferences are stored <strong>only on your device</strong>
+    (AsyncStorage) and are never transmitted to our servers:</p>
   <ul>
-    <li>Improve and personalize the App</li>
-    <li>Monitor usage patterns and technical performance</li>
-    <li>Respond to inquiries or support requests</li>
-    <li>Prevent fraudulent or unauthorized use</li>
+    <li>Ad/usage counters: play count, gallery view count, download count, extra download slots,
+      ad-failure streak, free-ads-session progress and expiry, ad format rotation cursor.</li>
+    <li>Feature flags and remote config cache, active song, offline song list, quiz/leaderboard/event cache,
+      call logs (max 30 entries), announcement dismissals.</li>
+    <li>Detected country cache (<code>last-detected-country</code>, 90-day TTL) used to pre-fill the
+      high-score country field.</li>
+  </ul>
+  <p>Downloaded songs and photos are stored in the app's private folder (<code>DocumentDirectoryPath</code>)
+    or, only when you explicitly choose "Phone Gallery", saved to the shared gallery via the system media store.
+    Private files are deleted when the app is uninstalled.</p>
+
+  <h3>c. Data Collected by Third-Party Services</h3>
+  <ul>
+    <li><strong>Google AdMob</strong> (banner, rewarded, and rewarded-interstitial ads): may collect the
+      Android advertising ID, IP address, device make/model, OS version, app package and version,
+      coarse location (derived from IP), ad interaction events, and crash/diagnostic signals tied to ad serving.
+      See <a href="https://policies.google.com/privacy">Google Privacy Policy</a> and
+      <a href="https://support.google.com/admob/answer/6128543">AdMob data-usage information</a>.</li>
+    <li><strong>Country pre-fill lookup (ipwho.is):</strong> when you open the high-score form with an expired
+      or missing country cache, the app sends one HTTPS request to <code>https://ipwho.is/</code> so the provider
+      sees your public IP address and returns an approximate country. Your IP is not logged or stored by the app;
+      only the returned country is kept on-device for up to 90 days. You can edit or remove it before submitting.</li>
+    <li><strong>Content delivery:</strong> song catalog, lyrics, news, gallery, video-call contact lists, and update
+      checks are fetched over HTTPS from our static hosting and Google Apps Script endpoints. Standard server logs
+      (IP address, timestamps) may apply at those hosts.</li>
   </ul>
 
-  <h2>3. Sharing of Information</h2>
-  <p>We do not sell or rent your personal information. However, we may share non-personal information with:</p>
+  <h3>d. Device Permissions We Request (and Why)</h3>
+  <table>
+    <tr><th>Permission</th><th>Purpose</th><th>Notes</th></tr>
+    <tr><td><code>INTERNET</code></td><td>Stream music, load catalog/news/gallery, submit forms, load ads.</td><td>Normal permission.</td></tr>
+    <tr><td><code>POST_NOTIFICATIONS</code> (Android 13+)</td><td>Show media playback controls in the notification shade / lock screen.</td><td>Requested once at first play. Music still plays if denied; only system controls are hidden.</td></tr>
+    <tr><td><code>CAMERA</code></td><td>Fake video-call self-view preview (picture-in-picture) only.</td><td>Requested at runtime when the call screen opens. Denying it shows an avatar placeholder; the simulated call still works. See §2.</td></tr>
+    <tr><td><code>WRITE_EXTERNAL_STORAGE</code> (maxSdkVersion 28)</td><td>Save photos to the phone gallery on Android 7–9 only.</td><td>Not used on Android 10+. App-private downloads need no storage permission.</td></tr>
+    <tr><td><code>SET_WALLPAPER</code>, <code>VIBRATE</code></td><td>Set wallpaper from the gallery; haptic feedback in the lyrics quiz game.</td><td>Normal permissions, auto-granted.</td></tr>
+  </table>
+
+  <h2>2. Camera Disclosure (Fake Video Call)</h2>
+  <p>During a simulated video call, the app may show your front-camera preview on your screen only (picture-in-picture).
+    No photo is taken, no video is recorded, and no camera data leaves your device.</p>
+  <p>The call itself is a pre-recorded entertainment/prank simulation ("Disclaimer: Entertainment &amp; Prank Only").
+    There is no live person on the other end and no microphone audio is captured or transmitted.</p>
+
+  <h2>3. Country Pre-Fill Disclosure (High-Score Form)</h2>
+  <p>When you submit a high score, the app may approximate your country from your IP address via ipwho.is (HTTPS)
+    to pre-fill the country field. Your IP address is not stored by the app; the detected country is kept on-device
+    for up to 90 days. You can edit or remove it before submitting.</p>
+
+  <h2>4. Use of Your Information</h2>
+  <p>The information described above is used to:</p>
   <ul>
-    <li>Service providers (e.g., Firebase Analytics, Crashlytics)</li>
-    <li>Legal authorities if required to comply with laws or respond to valid legal processes</li>
+    <li>Provide playback, offline downloads, gallery, quiz arcade, and fake-call features.</li>
+    <li>Enforce daily quotas and ad-gating rules (play/download/gallery-view limits, free-runs reset).</li>
+    <li>Show banner and rewarded ads (including the optional ad-free session) and measure their delivery.</li>
+    <li>Operate the song-request inbox and the global leaderboard.</li>
+    <li>Respond to support inquiries and prevent abuse.</li>
   </ul>
 
-  <h2>4. Data Retention</h2>
-  <p>We retain non-personal data only as long as necessary for the purposes outlined in this policy. If you contact us,
-    your message may be retained for internal record-keeping purposes.</p>
-
-  <h2>5. Your Rights</h2>
-  <p>Depending on your location, you may have rights under applicable data protection laws, including:</p>
+  <h2>5. Sharing of Information</h2>
+  <p>We do not sell or rent your personal information. We share data only as follows:</p>
   <ul>
-    <li>The right to access, correct, or delete your personal data</li>
-    <li>The right to object to data processing</li>
-    <li>The right to withdraw consent (if any was given)</li>
+    <li><strong>Google AdMob / Google Play services:</strong> ad delivery, consent handling, and in-app-update checks,
+      processed under Google's privacy policy.</li>
+    <li><strong>ipwho.is:</strong> single HTTPS country lookup described in §3 (IP visible to that provider for that request).</li>
+    <li><strong>Google Apps Script / Google Sheets:</strong> stores only the song-request and high-score rows you explicitly submit.</li>
+    <li><strong>Legal compliance:</strong> if required by law or valid legal process.</li>
   </ul>
-  <p>To exercise these rights, contact us at <a href="mailto:wekarya.tech@gmail.com">wekarya.tech@gmail.com</a>
-  </p>
+  <p>The "Explore All Fandom Apps" section links out to Play Store listings of our other apps. Tapping a listing
+    opens the Play Store; we receive no data from that tap beyond normal store analytics.</p>
 
-  <h2>6. Children's Privacy</h2>
-  <p>Our App is not intended for children under the age of 13. We do not knowingly collect personal information from
-    children. If we discover such data has been collected, we will delete it immediately.</p>
-
-  <h2>7. Security</h2>
-  <p>We take reasonable steps to protect your information from unauthorized access, loss, misuse, or disclosure.
-    However, no mobile app or transmission method is completely secure.</p>
-
-  <h2>8. International Data Transfers</h2>
-  <p>Our App may be used globally, and your data may be transferred to and processed in countries outside of your own.
-    By using the App, you consent to such transfers.</p>
-
-  <h2>9. Third-Party Links</h2>
-  <p>The App may contain links to third-party websites or services. We are not responsible for the content or privacy
-    practices of such external sites.</p>
-
-  <h2>10. Changes to This Privacy Policy</h2>
-  <p>We may update our Privacy Policy from time to time. Changes will be posted on this page and the updated date will
-    be reflected at the top. We recommend reviewing this policy periodically.</p>
-
-  <h2>11. Contact Us</h2>
-  <p>If you have any questions or concerns regarding this Privacy Policy, please contact us:</p>
+  <h2>6. Data Retention</h2>
   <ul>
-    <li>Email: <a href="mailto:werkarya.tech@gmail.com">werkarya.tech@gmail.com</a></li>
-    <li>Developer: SongLyrics App Development Team</li>
+    <li>On-device counters, caches, downloads, and call logs persist until you clear app data or uninstall the app.</li>
+    <li>Detected-country cache expires automatically after 90 days.</li>
+    <li>Song-request and high-score spreadsheet rows are retained as app records; contact us (§11) to request removal.</li>
+    <li>Ad-related data retention is governed by Google's policies (see links in §1c).</li>
+  </ul>
+
+  <h2>7. Your Rights</h2>
+  <p>Depending on your location (e.g., EU/UK GDPR), you may have the right to access, correct, delete, restrict, or
+    object to processing of your personal data, and to withdraw consent where processing is based on consent.</p>
+  <ul>
+    <li><strong>Ads personalization:</strong> reset or delete your advertising ID in Android Settings → Privacy → Ads.</li>
+    <li><strong>Permissions:</strong> revoke Camera, Notifications, or Storage access anytime in Android Settings → Apps.</li>
+    <li><strong>Optional submissions:</strong> simply do not use the song-request or high-score forms; using the rest of
+      the app does not require them.</li>
+    <li><strong>Deletion requests:</strong> contact us at <a href="mailto:wekarya.tech@gmail.com">wekarya.tech@gmail.com</a>
+      and identify the name/score or request entry to remove.</li>
+  </ul>
+
+  <h2>8. Children's Privacy</h2>
+  <p>The App is a general-audience fan app and is not directed to children under 13. We do not knowingly collect
+    personal information from children under 13. If you believe a child has submitted personal data (e.g., via the
+    song-request or high-score form), contact us and we will delete it promptly.</p>
+
+  <h2>9. Security</h2>
+  <p>We take reasonable steps to protect information: HTTPS transport, no password-based accounts to breach,
+    private on-device storage, atomic validated downloads, and scoped permissions. However, no mobile app or
+    transmission method is completely secure.</p>
+
+  <h2>10. International Data Transfers</h2>
+  <p>Our App may be used globally. Content hosting, AdMob, ipwho.is, and Google Apps Script/Sheets may process data
+    on servers outside your country. By using the App, you consent to such transfers subject to the safeguards of
+    those providers.</p>
+
+  <h2>11. Changes to This Privacy Policy</h2>
+  <p>We may update this policy when features or permissions change (e.g., new endpoints, new permissions).
+    Changes will be posted on this page with an updated revision date. Continued use of the App after changes
+    constitutes acceptance.</p>
+
+  <h2>12. Contact Us</h2>
+  <p>If you have questions, deletion requests, or concerns about this Privacy Policy, contact us:</p>
+  <ul>
+    <li>Email: <a href="mailto:wekarya.tech@gmail.com">wekarya.tech@gmail.com</a></li>
+    <li>Developer: Fandom Music App Team (DAEBAK and sister fan apps)</li>
   </ul>
 
 </body>
